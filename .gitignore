@@ -1,0 +1,12 @@
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+state/*
+!state/.gitkeep
+logs/raw/
+__pycache__/
+*.pyc
+.venv/
+tmp/
+cache/
+.env

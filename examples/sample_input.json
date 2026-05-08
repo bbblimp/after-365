@@ -1,0 +1,43 @@
+{
+  "run_date": "2026-05-09",
+  "daily_summary": "This sample demonstrates the JSON shape expected by the local tooling. Replace these placeholder items with researched events before treating an output as editorially complete.",
+  "candidates": [
+    {
+      "key": "sample-policy",
+      "title": "Sample policy announcement",
+      "category": "Politics / Regulation",
+      "region": "Example region",
+      "original_event_date": "2025-05-09",
+      "why_selected": "Useful placeholder showing how a considered candidate is stored.",
+      "status": "selected",
+      "score": 0.8
+    }
+  ],
+  "entries": [
+    {
+      "candidate_key": "sample-policy",
+      "slug": "sample-policy-announcement",
+      "title": "Sample policy announcement",
+      "category": "Politics / Regulation",
+      "region": "Example region",
+      "original_event_date": "2025-05-09",
+      "summary_then": "A placeholder event was announced on the lookback date.",
+      "summary_now": "One year later, this sample records where the follow-up state would go.",
+      "direct_impacts": "Replace with concrete direct impacts supported by sources.",
+      "indirect_impacts": "Replace with second-order effects or note that none are established.",
+      "missed_by_original_coverage": "Replace with what immediate coverage did not capture.",
+      "one_year_assessment": "Replace with a restrained conclusion that fits the evidence.",
+      "confidence": "Medium",
+      "revisit_candidate": true,
+      "sources": [
+        {
+          "phase": "then",
+          "title": "Original sample source",
+          "url": "https://example.com/original",
+          "publisher": "Example",
+          "published_date": "2025-05-09"
+        }
+      ]
+    }
+  ]
+}
