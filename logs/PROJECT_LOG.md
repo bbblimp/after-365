@@ -5,3 +5,4 @@
 - Bootstrapped After 365 from the prepared project brief.
 - Added repository documentation, agent guardrails, prompts, SQLite schema tooling, daily run orchestration, Markdown rendering, revisit listing, cron wrapper, examples, and initial backlog.
 - Kept local database files, raw logs, lock state, caches, and temporary files out of git.
+- Installed the user crontab entry to run `scripts/cron_wrapper.sh` every day at 02:00 local time.

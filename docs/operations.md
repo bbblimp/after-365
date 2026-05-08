@@ -32,7 +32,7 @@ Use `scripts/cron_wrapper.sh` from cron. The wrapper:
 Example cron entry:
 
 ```cron
-15 7 * * * /home/blech/git/after-365/scripts/cron_wrapper.sh
+0 2 * * * /home/blech/git/after-365/scripts/cron_wrapper.sh
 ```
 
 Review the generated Markdown and git diff before committing or publishing.
