@@ -6,9 +6,7 @@ The project generates daily retrospective analyses of events from one year earli
 
 ## Archive
 
-<!-- after365-archive:start -->
-- [2026-05-09](outputs/2026/2026-05-09.md) - lookback 2025-05-09 - 4 entries
-<!-- after365-archive:end -->
+See [docs/archive.md](docs/archive.md) for the complete list of handled dates.
 
 ## How It Works
 
@@ -19,7 +17,7 @@ Each daily run should:
 3. select 3-4 analytically strong items,
 4. store structured state in local SQLite,
 5. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,
-6. update the README archive index with newest handled dates first,
+6. update `docs/archive.md` with newest handled dates first,
 7. preserve enough identity and context to revisit entries after 730 or 1095 days.
 
 SQLite is the internal source of truth. Markdown is the published, browsable output layer.
