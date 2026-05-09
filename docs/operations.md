@@ -28,7 +28,8 @@ Use `scripts/cron_wrapper.sh` from cron. The wrapper:
 
 - changes into the repository root,
 - creates a lockfile in `state/`,
-- runs `scripts/daily_run.py`,
+- runs the local Codex CLI with `prompts/cron-agent.md`,
+- falls back to `scripts/daily_run.py` only if Codex is unavailable,
 - writes raw logs under `logs/raw/`.
 
 Example cron entry:
@@ -38,6 +39,18 @@ Example cron entry:
 ```
 
 Review the generated Markdown and git diff before committing or publishing.
+
+Smoke-test the agent wiring without doing a full research run:
+
+```bash
+scripts/cron_wrapper.sh --smoke-agent
+```
+
+Run the old placeholder-only path explicitly:
+
+```bash
+scripts/cron_wrapper.sh --python-only --dry-run
+```
 
 ## Research Input Format
 

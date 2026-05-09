@@ -12,6 +12,7 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - Do not delete historical outputs or remove historical entries unless explicitly asked.
 - Do not rewrite `AGENTS.md`, `README.md`, schema documentation, schema implementation, or cron wiring unless explicitly asked.
 - Prefer additive, traceable changes.
+- The scheduled cron wrapper may run the local Codex CLI to perform research and populate the daily report, but it must not push directly to `main`.
 
 ## Daily Run Rules
 
