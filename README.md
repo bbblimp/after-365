@@ -18,7 +18,8 @@ Each daily run should:
 4. store structured state in local SQLite,
 5. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,
 6. update `docs/archive.md` with newest handled dates first,
-7. preserve enough identity and context to revisit entries after 730 or 1095 days.
+7. catch up missed dates after local downtime,
+8. preserve enough identity and context to revisit entries after 730 or 1095 days.
 
 SQLite is the internal source of truth. Markdown is the published, browsable output layer.
 
@@ -61,9 +62,17 @@ The database defaults to `data/after_365.db`. You can override this with `--db-p
 
 ## Automation
 
-Cron should call `scripts/cron_wrapper.sh`, not the Python script directly. The wrapper sets a predictable working directory, creates a lockfile, and writes raw logs under `logs/raw/`.
+Cron should call `scripts/cron_wrapper.sh`, not the Python script directly. The wrapper sets a predictable working directory, creates a lockfile, runs the local Codex agent with `prompts/cron-agent.md`, catches up missed dates oldest-first, and writes raw logs under `logs/raw/`.
 
 The automation must not push directly to `main`. Daily runs may update the working tree or create reviewable local commits/branches, but publishing remains an explicit human action.
+
+Preview due dates without running the agent:
+
+```bash
+scripts/cron_wrapper.sh --list-missing
+```
+
+See [docs/operations.md](docs/operations.md) for cron setup, smoke tests, and catch-up controls.
 
 ## Safety
 
