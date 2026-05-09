@@ -29,6 +29,7 @@ Use `scripts/cron_wrapper.sh` from cron. The wrapper:
 - changes into the repository root,
 - creates a lockfile in `state/`,
 - runs the local Codex CLI with `prompts/cron-agent.md`,
+- checks for missed dates since the latest completed report and processes them oldest-first,
 - falls back to `scripts/daily_run.py` only if Codex is unavailable,
 - writes raw logs under `logs/raw/`.
 
@@ -39,6 +40,18 @@ Example cron entry:
 ```
 
 Review the generated Markdown and git diff before committing or publishing.
+
+By default, catch-up is capped at 14 dates per invocation. Override with:
+
+```bash
+AFTER365_CATCHUP_LIMIT=30 scripts/cron_wrapper.sh
+```
+
+Preview due dates without running the agent:
+
+```bash
+scripts/cron_wrapper.sh --list-missing
+```
 
 Smoke-test the agent wiring without doing a full research run:
 

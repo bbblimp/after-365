@@ -36,7 +36,7 @@ run_python_fallback() {
 
 run_codex_agent() {
   local codex_bin="$1"
-  local run_date="${AFTER365_RUN_DATE:-$(date +%F)}"
+  local run_date="$2"
   local prompt_path
   prompt_path="$(mktemp /tmp/after365-cron-prompt.XXXXXX.md)"
   trap 'rm -f "$prompt_path"' RETURN
@@ -56,6 +56,18 @@ run_codex_agent() {
     - < "$prompt_path"
 }
 
+list_due_dates() {
+  local today="${AFTER365_TODAY:-$(date +%F)}"
+  local limit="${AFTER365_CATCHUP_LIMIT:-14}"
+
+  if [[ -n "${AFTER365_RUN_DATE:-}" ]]; then
+    printf '%s\n' "$AFTER365_RUN_DATE"
+    return 0
+  fi
+
+  python3 scripts/list_missing_dates.py --today "$today" --limit "$limit"
+}
+
 mkdir -p "$LOG_DIR" "$REPO_ROOT/state"
 
 exec 9>"$LOCK_FILE"
@@ -65,6 +77,12 @@ if ! flock -n 9; then
 fi
 
 cd "$REPO_ROOT"
+
+if [[ "${1:-}" == "--list-missing" ]]; then
+  list_due_dates
+  exit 0
+fi
+
 {
   echo "$(date -Is) starting After 365 daily run"
 
@@ -77,7 +95,13 @@ cd "$REPO_ROOT"
     run_python_fallback "$@"
   else
     if codex_bin="$(resolve_codex)"; then
-      run_codex_agent "$codex_bin"
+      mapfile -t due_dates < <(list_due_dates)
+      if [[ "${#due_dates[@]}" -eq 0 ]]; then
+        echo "$(date -Is) no missing After 365 run dates found"
+      fi
+      for run_date in "${due_dates[@]}"; do
+        run_codex_agent "$codex_bin" "$run_date"
+      done
     else
       echo "$(date -Is) Codex CLI not found; falling back to placeholder Python run"
       run_python_fallback "$@"

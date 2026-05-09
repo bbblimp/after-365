@@ -25,6 +25,7 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - Update `docs/archive.md` when a completed report is added; newest dates go first. Keep `README.md` as a short pointer to that archive.
 - Keep runs idempotent for a given `run_date`.
 - Use lockfile protection for unattended runs.
+- Cron catch-up should process missed dates oldest-first from the latest completed report through today.
 
 ## Editorial Rules
 
