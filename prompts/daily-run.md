@@ -8,6 +8,7 @@ For today's After 365 run:
 4. Write restrained, evidence-aware analysis.
 5. Store candidates, entries, and sources in SQLite.
 6. Render `outputs/YYYY/YYYY-MM-DD.md`.
-7. Mark the run `done`, `partial`, or `failed`.
+7. Update the README archive index with the newest completed date first.
+8. Mark the run `done`, `partial`, or `failed`.
 
 Do not push to `main`. Do not expose secrets. Do not rewrite core project instructions or cron wiring unless explicitly asked.

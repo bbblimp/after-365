@@ -4,6 +4,12 @@ After 365 is a local-first archive that looks back exactly 365 days and asks wha
 
 The project generates daily retrospective analyses of events from one year earlier. It is not a normal news digest. The point is to compare immediate public attention with longer-term consequence: which stories mattered, which faded, which predictions held, and which effects only became visible later.
 
+## Archive
+
+<!-- after365-archive:start -->
+- [2026-05-09](outputs/2026/2026-05-09.md) - lookback 2025-05-09 - 4 entries
+<!-- after365-archive:end -->
+
 ## How It Works
 
 Each daily run should:
@@ -13,7 +19,8 @@ Each daily run should:
 3. select 3-4 analytically strong items,
 4. store structured state in local SQLite,
 5. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,
-6. preserve enough identity and context to revisit entries after 730 or 1095 days.
+6. update the README archive index with newest handled dates first,
+7. preserve enough identity and context to revisit entries after 730 or 1095 days.
 
 SQLite is the internal source of truth. Markdown is the published, browsable output layer.
 

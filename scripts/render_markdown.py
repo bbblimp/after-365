@@ -11,6 +11,9 @@ from init_db import DEFAULT_DB_PATH, init_db, resolve_db_path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+README_PATH = REPO_ROOT / "README.md"
+ARCHIVE_START = "<!-- after365-archive:start -->"
+ARCHIVE_END = "<!-- after365-archive:end -->"
 
 
 def fetch_run(conn: sqlite3.Connection, run_date: str) -> sqlite3.Row:
@@ -123,7 +126,68 @@ def write_markdown(conn: sqlite3.Connection, run_date: str) -> Path:
         (rel_path, run_date),
     )
     conn.commit()
+    update_readme_archive(conn)
     return output_path
+
+
+def archive_rows(conn: sqlite3.Connection) -> list[sqlite3.Row]:
+    return list(
+        conn.execute(
+            """
+            SELECT
+                daily_runs.run_date,
+                daily_runs.lookback_date,
+                daily_runs.output_path,
+                COUNT(entries.id) AS entry_count
+            FROM daily_runs
+            LEFT JOIN entries ON entries.run_date = daily_runs.run_date
+            WHERE daily_runs.status = 'done'
+              AND daily_runs.output_path IS NOT NULL
+            GROUP BY daily_runs.run_date, daily_runs.lookback_date, daily_runs.output_path
+            HAVING entry_count > 0
+            ORDER BY daily_runs.run_date DESC
+            """
+        )
+    )
+
+
+def render_archive_block(conn: sqlite3.Connection) -> str:
+    rows = archive_rows(conn)
+    lines = [ARCHIVE_START]
+    if rows:
+        for row in rows:
+            label = f"{row['entry_count']} entry" if row["entry_count"] == 1 else f"{row['entry_count']} entries"
+            lines.append(
+                f"- [{row['run_date']}]({row['output_path']}) - lookback {row['lookback_date']} - {label}"
+            )
+    else:
+        lines.append("- No completed reports yet.")
+    lines.append(ARCHIVE_END)
+    return "\n".join(lines)
+
+
+def update_readme_archive(conn: sqlite3.Connection) -> None:
+    if not README_PATH.exists():
+        return
+
+    readme = README_PATH.read_text(encoding="utf-8")
+    block = render_archive_block(conn)
+    start = readme.find(ARCHIVE_START)
+    end = readme.find(ARCHIVE_END)
+
+    if start != -1 and end != -1 and start < end:
+        end += len(ARCHIVE_END)
+        updated = readme[:start] + block + readme[end:]
+    else:
+        insert_after = "\n## How It Works\n"
+        archive_section = f"\n## Archive\n\n{block}\n"
+        if insert_after in readme:
+            updated = readme.replace(insert_after, archive_section + insert_after, 1)
+        else:
+            updated = readme.rstrip() + archive_section + "\n"
+
+    if updated != readme:
+        README_PATH.write_text(updated, encoding="utf-8")
 
 
 def main() -> int:

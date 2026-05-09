@@ -21,6 +21,7 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - Drama alone is not sufficient.
 - Store considered candidates, selected entries, and sources in SQLite.
 - Render final daily output to `outputs/YYYY/YYYY-MM-DD.md`.
+- Update the README archive index when a completed report is added; newest dates go first.
 - Keep runs idempotent for a given `run_date`.
 - Use lockfile protection for unattended runs.
 

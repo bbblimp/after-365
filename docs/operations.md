@@ -20,6 +20,8 @@ Run with prepared research data:
 python3 scripts/daily_run.py --input path/to/research.json
 ```
 
+This renders the daily Markdown output and updates the README archive index. The index is managed between `after365-archive` markers and should list the most recent completed report first.
+
 ## Cron
 
 Use `scripts/cron_wrapper.sh` from cron. The wrapper:
