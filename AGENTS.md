@@ -7,12 +7,12 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - Keep the project simple, local, and repository-centered.
 - Use SQLite as internal durable state and Markdown as the rendered output layer.
 - Do not commit secrets, tokens, API keys, raw logs, caches, local databases, or private machine details.
-- Do not push directly to `main` from automation.
+- Automation may push directly to `main` only for generated report/archive commits created by `scripts/cron_wrapper.sh`.
 - Do not force-push.
 - Do not delete historical outputs or remove historical entries unless explicitly asked.
 - Do not rewrite `AGENTS.md`, `README.md`, schema documentation, schema implementation, or cron wiring unless explicitly asked.
 - Prefer additive, traceable changes.
-- The scheduled cron wrapper may run the local Codex CLI to perform research and populate the daily report, but it must not push directly to `main`.
+- The scheduled cron wrapper may run the local Codex CLI to perform research, populate the daily report, commit generated Markdown/archive changes, and push that narrow commit to `main`.
 
 ## Daily Run Rules
 
@@ -40,4 +40,4 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - SQLite databases belong in `data/` and are ignored.
 - Lockfiles and transient state belong in `state/` and are ignored except `.gitkeep`.
 - Raw runtime logs belong in `logs/raw/` and are ignored.
-- Generated Markdown in `outputs/` may be committed after review.
+- Generated Markdown in `outputs/` and `docs/archive.md` may be committed and pushed by cron after a successful generated run.

@@ -68,6 +68,48 @@ list_due_dates() {
   python3 scripts/list_missing_dates.py --today "$today" --limit "$limit"
 }
 
+report_path_for_date() {
+  local run_date="$1"
+  printf 'outputs/%s/%s.md\n' "${run_date:0:4}" "$run_date"
+}
+
+publish_generated_changes() {
+  if [[ "${AFTER365_AUTO_PUBLISH:-1}" != "1" ]]; then
+    echo "$(date -Is) auto-publish disabled by AFTER365_AUTO_PUBLISH"
+    return 0
+  fi
+
+  if [[ "$#" -eq 0 ]]; then
+    echo "$(date -Is) no processed dates to publish"
+    return 0
+  fi
+
+  local run_date
+  git add docs/archive.md
+  for run_date in "$@"; do
+    git add "$(report_path_for_date "$run_date")"
+  done
+
+  if git diff --cached --quiet; then
+    echo "$(date -Is) no generated report changes to commit"
+    return 0
+  fi
+
+  local first_date="$1"
+  local last_date="${@: -1}"
+  local message
+  if [[ "$first_date" == "$last_date" ]]; then
+    message="Add ${first_date} report"
+  else
+    message="Add reports ${first_date} through ${last_date}"
+  fi
+
+  echo "$(date -Is) committing generated report changes"
+  git commit -m "$message"
+  echo "$(date -Is) pushing generated report changes to origin/main"
+  git push origin HEAD:main
+}
+
 mkdir -p "$LOG_DIR" "$REPO_ROOT/state"
 
 exec 9>"$LOCK_FILE"
@@ -102,6 +144,7 @@ fi
       for run_date in "${due_dates[@]}"; do
         run_codex_agent "$codex_bin" "$run_date"
       done
+      publish_generated_changes "${due_dates[@]}"
     else
       echo "$(date -Is) Codex CLI not found; falling back to placeholder Python run"
       run_python_fallback "$@"

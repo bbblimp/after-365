@@ -30,6 +30,7 @@ Use `scripts/cron_wrapper.sh` from cron. The wrapper:
 - creates a lockfile in `state/`,
 - runs the local Codex CLI with `prompts/cron-agent.md`,
 - checks for missed dates since the latest completed report and processes them oldest-first,
+- commits generated reports plus `docs/archive.md` and pushes that narrow commit to `origin/main`,
 - falls back to `scripts/daily_run.py` only if Codex is unavailable,
 - writes raw logs under `logs/raw/`.
 
@@ -39,7 +40,13 @@ Example cron entry:
 0 2 * * * /home/blech/git/after-365/scripts/cron_wrapper.sh
 ```
 
-Review the generated Markdown and git diff before committing or publishing.
+The auto-publish step stages only `docs/archive.md` and the generated files under `outputs/YYYY/`. It does not stage SQLite databases, raw logs, state payloads, or unrelated local edits.
+
+Disable auto-publish for a run with:
+
+```bash
+AFTER365_AUTO_PUBLISH=0 scripts/cron_wrapper.sh
+```
 
 By default, catch-up is capped at 14 dates per invocation. Override with:
 

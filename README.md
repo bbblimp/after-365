@@ -62,9 +62,9 @@ The database defaults to `data/after_365.db`. You can override this with `--db-p
 
 ## Automation
 
-Cron should call `scripts/cron_wrapper.sh`, not the Python script directly. The wrapper sets a predictable working directory, creates a lockfile, runs the local Codex agent with `prompts/cron-agent.md`, catches up missed dates oldest-first, and writes raw logs under `logs/raw/`.
+Cron should call `scripts/cron_wrapper.sh`, not the Python script directly. The wrapper sets a predictable working directory, creates a lockfile, runs the local Codex agent with `prompts/cron-agent.md`, catches up missed dates oldest-first, commits generated report/archive changes, pushes them to `origin/main`, and writes raw logs under `logs/raw/`.
 
-The automation must not push directly to `main`. Daily runs may update the working tree or create reviewable local commits/branches, but publishing remains an explicit human action.
+The auto-publish step is deliberately narrow: it stages only generated files under `outputs/YYYY/` and `docs/archive.md`. SQLite databases, raw logs, transient state, and unrelated local edits stay out of git.
 
 Preview due dates without running the agent:
 
