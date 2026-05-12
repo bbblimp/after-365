@@ -20,6 +20,7 @@ This repository supports a local-first daily retrospective project. Treat it as 
 - Consider a broad candidate set before selecting final entries.
 - Select 3-4 final items for consequence, traceability, diversity, and analytical value.
 - Drama alone is not sufficient.
+- Avoid repeating the same named person, institution, war, bilateral dispute, region, or narrow policy topic from the prior 7 run days unless it is clearly a major-event exception.
 - Store considered candidates, selected entries, and sources in SQLite.
 - Render final daily output to `outputs/YYYY/YYYY-MM-DD.md`.
 - Update `docs/archive.md` when a completed report is added; newest dates go first. Keep `README.md` as a short pointer to that archive.

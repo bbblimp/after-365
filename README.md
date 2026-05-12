@@ -15,11 +15,12 @@ Each daily run should:
 1. compute today's date and the lookback date 365 days earlier,
 2. gather a broader candidate set of events from that lookback date,
 3. select 3-4 analytically strong items,
-4. store structured state in local SQLite,
-5. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,
-6. update `docs/archive.md` with newest handled dates first,
-7. catch up missed dates after local downtime,
-8. preserve enough identity and context to revisit entries after 730 or 1095 days.
+4. check recent archive topics to avoid unnecessary repetition,
+5. store structured state in local SQLite,
+6. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,
+7. update `docs/archive.md` with newest handled dates first,
+8. catch up missed dates after local downtime,
+9. preserve enough identity and context to revisit entries after 730 or 1095 days.
 
 SQLite is the internal source of truth. Markdown is the published, browsable output layer.
 

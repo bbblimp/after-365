@@ -29,6 +29,7 @@ Use `scripts/cron_wrapper.sh` from cron. The wrapper:
 - changes into the repository root,
 - creates a lockfile in `state/`,
 - runs the local Codex CLI with `prompts/cron-agent.md`,
+- appends recent topic-diversity context from `scripts/topic_diversity.py`,
 - checks for missed dates since the latest completed report and processes them oldest-first,
 - commits generated reports plus `docs/archive.md` and pushes that narrow commit to `origin/main`,
 - falls back to `scripts/daily_run.py` only if Codex is unavailable,
@@ -52,6 +53,18 @@ By default, catch-up is capped at 14 dates per invocation. Override with:
 
 ```bash
 AFTER365_CATCHUP_LIMIT=30 scripts/cron_wrapper.sh
+```
+
+By default, the topic-diversity guard looks back over the prior 7 run days. Override with:
+
+```bash
+AFTER365_DIVERSITY_DAYS=14 scripts/cron_wrapper.sh
+```
+
+Preview recent topic warnings for a date:
+
+```bash
+python3 scripts/topic_diversity.py --run-date YYYY-MM-DD
 ```
 
 Preview due dates without running the agent:

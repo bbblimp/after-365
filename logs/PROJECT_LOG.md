@@ -11,3 +11,4 @@
 - Updated the cron wrapper to invoke the local Codex CLI with `prompts/cron-agent.md` so unattended runs can perform research instead of writing placeholder-only reports.
 - Added catch-up planning so cron can process missed run dates oldest-first after downtime.
 - Enabled narrow auto-publish for cron-generated reports and archive updates so successful overnight runs appear on GitHub without a manual commit step.
+- Added a topic-diversity context harness so automated runs can avoid unnecessary repetition from the previous 7 run days.

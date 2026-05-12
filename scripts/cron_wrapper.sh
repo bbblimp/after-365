@@ -44,6 +44,8 @@ run_codex_agent() {
   {
     printf 'Run date: %s\n\n' "$run_date"
     cat "$PROMPT_FILE"
+    printf '\n'
+    python3 scripts/topic_diversity.py --run-date "$run_date" --days "${AFTER365_DIVERSITY_DAYS:-7}"
   } > "$prompt_path"
 
   echo "$(date -Is) running Codex agent for After 365 date $run_date"
