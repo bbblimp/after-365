@@ -3,6 +3,7 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-15](../outputs/2026/2026-05-15.md) - lookback 2025-05-15 - 4 entries
 - [2026-05-14](../outputs/2026/2026-05-14.md) - lookback 2025-05-14 - 4 entries
 - [2026-05-13](../outputs/2026/2026-05-13.md) - lookback 2025-05-13 - 4 entries
 - [2026-05-12](../outputs/2026/2026-05-12.md) - lookback 2025-05-12 - 4 entries
