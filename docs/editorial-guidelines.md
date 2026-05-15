@@ -12,6 +12,8 @@ Choose final entries using this priority order:
 4. analytical value,
 5. dramatic appeal.
 
+Use 3-4 entries for an ordinary day, with a soft range of 2-6. Use fewer entries when the day is thin or when extra items would be repetitive or weakly sourced. Use more entries only when enough distinct, high-consequence, well-sourced topics are available.
+
 Aim for a mix of politics, regulation, infrastructure, industry, technology, social events, forecasts, climate, weather, and environmental topics.
 
 Avoid celebrity gossip, ephemeral internet drama, low-consequence clickbait, duplicate topics without a new angle, and items with no traceable development unless their disappearance is itself analytically useful.

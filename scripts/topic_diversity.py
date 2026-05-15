@@ -76,7 +76,7 @@ def render_context(conn: sqlite3.Connection, run_date: str, days: int) -> str:
             "- Prefer topics, regions, institutions, and protagonists not represented below.",
             "- Avoid repeating the same named person, war, bilateral dispute, or policy area within this window unless it is clearly one of the day's highest-consequence events.",
             "- If repetition is unavoidable, choose a substantially different angle and explain why it clears the exception.",
-            "- Aim for category diversity across the final 3-4 entries.",
+            "- Aim for category diversity across the final set; use 3-4 entries normally, with a soft 2-6 range based on quality.",
             "",
             "## Recent Entries",
             "",

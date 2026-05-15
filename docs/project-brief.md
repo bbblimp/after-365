@@ -2,7 +2,7 @@
 
 After 365 generates a daily retrospective analysis of events from exactly 365 days earlier.
 
-The project examines the gap between immediate media attention and real consequences one year later. Each day, it looks back 365 days, identifies candidate events, selects 3-4 analytically strong items, researches the following year, stores structured results locally, renders Markdown, and preserves state for later revisits.
+The project examines the gap between immediate media attention and real consequences one year later. Each day, it looks back 365 days, identifies candidate events, selects a quality-based set of analytically strong items, researches the following year, stores structured results locally, renders Markdown, and preserves state for later revisits.
 
 ## Principles
 

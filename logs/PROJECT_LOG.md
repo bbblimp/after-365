@@ -13,3 +13,4 @@
 - Enabled narrow auto-publish for cron-generated reports and archive updates so successful overnight runs appear on GitHub without a manual commit step.
 - Added a topic-diversity context harness so automated runs can avoid unnecessary repetition from the previous 7 run days.
 - Extended `docs/archive.md` generation to include compact topic previews under each completed date.
+- Softened the daily entry count guidance from a fixed 3-4 expectation to a quality-based 2-6 range, with 3-4 as the normal target.

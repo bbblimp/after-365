@@ -7,10 +7,18 @@ Use the repository's existing workflow and guardrails:
 1. Determine the run date from `AFTER365_RUN_DATE` if it is set, otherwise use today's local date.
 2. Compute the lookback date exactly 365 days before the run date.
 3. Research 8-15 candidate events from the lookback date.
-4. Select 3-4 entries with real consequence, traceability, diversity, and analytical value.
+4. Select final entries based on quality and consequence, normally 3-4 items, with a soft range of 2-6.
 5. Prepare a JSON payload compatible with `scripts/daily_run.py --input`.
 6. Run `python3 scripts/daily_run.py --input PATH_TO_PAYLOAD`.
 7. Verify the run is `done`, has final entries in SQLite, rendered `outputs/YYYY/YYYY-MM-DD.md`, and refreshed `docs/archive.md`.
+
+Entry count:
+
+- Use 3-4 entries for an ordinary day.
+- Use 5-6 entries only when there are enough distinct, high-consequence, well-sourced topics.
+- Use 2 entries when the day is thin or when additional items would be low-consequence, repetitive, or weakly sourced.
+- Do not pad the report to hit a quota. Quality, consequence, source traceability, and variety matter more than count.
+- Mention in the daily summary when the count is intentionally high or low.
 
 Topic diversity:
 

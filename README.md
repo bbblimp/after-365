@@ -14,7 +14,7 @@ Each daily run should:
 
 1. compute today's date and the lookback date 365 days earlier,
 2. gather a broader candidate set of events from that lookback date,
-3. select 3-4 analytically strong items,
+3. select a quality-based set of analytically strong items, usually 3-4 but not fixed,
 4. check recent archive topics to avoid unnecessary repetition,
 5. store structured state in local SQLite,
 6. render a readable Markdown report under `outputs/YYYY/YYYY-MM-DD.md`,

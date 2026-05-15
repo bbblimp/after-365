@@ -18,7 +18,8 @@ This repository supports a local-first daily retrospective project. Treat it as 
 
 - Compute `lookback_date` as exactly 365 days before `run_date`.
 - Consider a broad candidate set before selecting final entries.
-- Select 3-4 final items for consequence, traceability, diversity, and analytical value.
+- Select final items for consequence, traceability, diversity, and analytical value. Use 3-4 for an ordinary day, with a soft range of 2-6.
+- Do not pad a report to hit a quota; use fewer entries when additional items are weak, and more only when distinct high-quality topics justify it.
 - Drama alone is not sufficient.
 - Avoid repeating the same named person, institution, war, bilateral dispute, region, or narrow policy topic from the prior 7 run days unless it is clearly a major-event exception.
 - Store considered candidates, selected entries, and sources in SQLite.
