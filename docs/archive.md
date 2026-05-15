@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-16](../outputs/2026/2026-05-16.md) - lookback 2025-05-16 - 4 entries
+  - Topics: Moody's removes the United States' last major triple-A sovereign rating; France files an ICJ case against Iran over detained nationals and consular protection; FDA grants full approval to Novavax's COVID-19 vaccine, but with narrower use; JWST result pushes the confirmed galaxy frontier to MoM-z14
 - [2026-05-15](../outputs/2026/2026-05-15.md) - lookback 2025-05-15 - 4 entries
   - Topics: Federal Reserve opens a public rethink of its monetary-policy framework; Libya accepts ICC jurisdiction over alleged crimes from 2011 through 2027; The May 15-16 tornado outbreak becomes a deadly central U.S. disaster; Colombia's labor-reform referendum fight turns into a congressional lawmaking test
 - [2026-05-14](../outputs/2026/2026-05-14.md) - lookback 2025-05-14 - 4 entries
