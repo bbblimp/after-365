@@ -152,6 +152,19 @@ def archive_rows(conn: sqlite3.Connection) -> list[sqlite3.Row]:
     )
 
 
+def archive_entry_titles(conn: sqlite3.Connection, run_date: str) -> list[str]:
+    rows = conn.execute(
+        """
+        SELECT title
+        FROM entries
+        WHERE run_date = ?
+        ORDER BY id
+        """,
+        (run_date,),
+    ).fetchall()
+    return [row["title"] for row in rows]
+
+
 def render_archive_block(conn: sqlite3.Connection, link_prefix: str = "") -> str:
     rows = archive_rows(conn)
     lines = [ARCHIVE_START]
@@ -161,6 +174,9 @@ def render_archive_block(conn: sqlite3.Connection, link_prefix: str = "") -> str
             lines.append(
                 f"- [{row['run_date']}]({link_prefix}{row['output_path']}) - lookback {row['lookback_date']} - {label}"
             )
+            titles = archive_entry_titles(conn, row["run_date"])
+            if titles:
+                lines.append(f"  - Topics: {'; '.join(titles)}")
     else:
         lines.append("- No completed reports yet.")
     lines.append(ARCHIVE_END)

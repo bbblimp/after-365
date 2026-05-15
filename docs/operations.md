@@ -20,7 +20,7 @@ Run with prepared research data:
 python3 scripts/daily_run.py --input path/to/research.json
 ```
 
-This renders the daily Markdown output and updates `docs/archive.md`. The archive index is managed between `after365-archive` markers and should list the most recent completed report first. `README.md` should keep only a short link to that full archive.
+This renders the daily Markdown output and updates `docs/archive.md`. The archive index is managed between `after365-archive` markers and should list the most recent completed report first, with a compact topic preview for each date. `README.md` should keep only a short link to that full archive.
 
 ## Cron
 
