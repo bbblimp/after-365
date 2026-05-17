@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-18](../outputs/2026/2026-05-18.md) - lookback 2025-05-18 - 4 entries
+  - Topics: Nicusor Dan wins Romania's rerun presidential election; A suicide bomber attacks recruits at a Mogadishu military camp; India's PSLV-C61 mission fails to place EOS-09 in orbit; Joe Biden's office discloses an aggressive prostate-cancer diagnosis
 - [2026-05-17](../outputs/2026/2026-05-17.md) - lookback 2025-05-17 - 4 entries
   - Topics: Brazil's first commercial bird-flu outbreak triggers poultry import bans; A car bomb damages a Palm Springs fertility clinic; Mexican Navy training ship Cuauhtemoc strikes the Brooklyn Bridge; Austria's Eurovision win carries the contest into a more strained 2026 edition
 - [2026-05-16](../outputs/2026/2026-05-16.md) - lookback 2025-05-16 - 4 entries
