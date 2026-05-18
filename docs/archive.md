@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-19](../outputs/2026/2026-05-19.md) - lookback 2025-05-19 - 4 entries
+  - Topics: WHO members approve the pandemic agreement in committee; ICJ identifies Equatorial Guinea's legal title in the Gabon islands dispute; The UK and EU hold their first post-Brexit summit and announce a reset package; El Salvador arrests anti-corruption lawyer Ruth Lopez
 - [2026-05-18](../outputs/2026/2026-05-18.md) - lookback 2025-05-18 - 4 entries
   - Topics: Nicusor Dan wins Romania's rerun presidential election; A suicide bomber attacks recruits at a Mogadishu military camp; India's PSLV-C61 mission fails to place EOS-09 in orbit; Joe Biden's office discloses an aggressive prostate-cancer diagnosis
 - [2026-05-17](../outputs/2026/2026-05-17.md) - lookback 2025-05-17 - 4 entries
