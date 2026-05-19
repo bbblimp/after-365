@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-20](../outputs/2026/2026-05-20.md) - lookback 2025-05-20 - 4 entries
+  - Topics: Trump selects the Golden Dome missile-defense concept; Hungary's parliament approves withdrawal from the International Criminal Court; Two senior aides to Mexico City's mayor are killed in a targeted attack; Google rolls out AI Mode in Search to U.S. users
 - [2026-05-19](../outputs/2026/2026-05-19.md) - lookback 2025-05-19 - 4 entries
   - Topics: WHO members approve the pandemic agreement in committee; ICJ identifies Equatorial Guinea's legal title in the Gabon islands dispute; The UK and EU hold their first post-Brexit summit and announce a reset package; El Salvador arrests anti-corruption lawyer Ruth Lopez
 - [2026-05-18](../outputs/2026/2026-05-18.md) - lookback 2025-05-18 - 4 entries
