@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-21](../outputs/2026/2026-05-21.md) - lookback 2025-05-21 - 4 entries
+  - Topics: Two Israeli Embassy staffers are killed outside the Capital Jewish Museum in Washington; Germany arrests teenagers accused of belonging to the Last Defense Wave far-right group; New South Wales activates disaster support as record flooding isolates Mid North Coast communities; A federal judge says a South Sudan-linked deportation flight violated a court order
 - [2026-05-20](../outputs/2026/2026-05-20.md) - lookback 2025-05-20 - 4 entries
   - Topics: Trump selects the Golden Dome missile-defense concept; Hungary's parliament approves withdrawal from the International Criminal Court; Two senior aides to Mexico City's mayor are killed in a targeted attack; Google rolls out AI Mode in Search to U.S. users
 - [2026-05-19](../outputs/2026/2026-05-19.md) - lookback 2025-05-19 - 4 entries
