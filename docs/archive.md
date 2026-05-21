@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-22](../outputs/2026/2026-05-22.md) - lookback 2025-05-22 - 4 entries
+  - Topics: The UK and Mauritius sign the Chagos Archipelago treaty; Brazil's Senate advances a broad environmental-licensing rollback; North Korea's second new destroyer is damaged during a launch ceremony; The U.S. Senate votes to block California vehicle-emissions waivers
 - [2026-05-21](../outputs/2026/2026-05-21.md) - lookback 2025-05-21 - 4 entries
   - Topics: Two Israeli Embassy staffers are killed outside the Capital Jewish Museum in Washington; Germany arrests teenagers accused of belonging to the Last Defense Wave far-right group; New South Wales activates disaster support as record flooding isolates Mid North Coast communities; A federal judge says a South Sudan-linked deportation flight violated a court order
 - [2026-05-20](../outputs/2026/2026-05-20.md) - lookback 2025-05-20 - 4 entries
