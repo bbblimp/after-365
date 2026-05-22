@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-23](../outputs/2026/2026-05-23.md) - lookback 2025-05-23 - 3 entries
+  - Topics: Russia and Ukraine begin a 1,000-for-1,000 prisoner exchange; Harvard sues after DHS revokes its ability to host international students; Venezuela arrests opposition politician Juan Pablo Guanipa before elections
 - [2026-05-22](../outputs/2026/2026-05-22.md) - lookback 2025-05-22 - 4 entries
   - Topics: The UK and Mauritius sign the Chagos Archipelago treaty; Brazil's Senate advances a broad environmental-licensing rollback; North Korea's second new destroyer is damaged during a launch ceremony; The U.S. Senate votes to block California vehicle-emissions waivers
 - [2026-05-21](../outputs/2026/2026-05-21.md) - lookback 2025-05-21 - 4 entries
