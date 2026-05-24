@@ -3,6 +3,10 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-25](../outputs/2026/2026-05-25.md) - lookback 2025-05-25 - 4 entries
+  - Topics: Suriname votes in a close parliamentary election before an expected oil boom; Rival Warsaw marches frame Poland's presidential runoff as a reform-veto contest; South Korea's overseas presidential voting closes at record turnout; Bangladesh civil-service and tax-authority protests widen under the interim government
+- [2026-05-24](../outputs/2026/2026-05-24.md) - lookback 2025-05-24 - 4 entries
+  - Topics: Daniel Noboa is sworn in for a full presidential term in Ecuador; India's southwest monsoon reaches Kerala eight days early; Candidate-vetting concerns sharpen before Mexico's first judicial elections; Jafar Panahi wins the Palme d'Or for It Was Just an Accident
 - [2026-05-23](../outputs/2026/2026-05-23.md) - lookback 2025-05-23 - 3 entries
   - Topics: Russia and Ukraine begin a 1,000-for-1,000 prisoner exchange; Harvard sues after DHS revokes its ability to host international students; Venezuela arrests opposition politician Juan Pablo Guanipa before elections
 - [2026-05-22](../outputs/2026/2026-05-22.md) - lookback 2025-05-22 - 4 entries
