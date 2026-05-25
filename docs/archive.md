@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-26](../outputs/2026/2026-05-26.md) - lookback 2025-05-26 - 4 entries
+  - Topics: A car is driven into Liverpool supporters during a Premier League victory parade; ASEAN opens a Kuala Lumpur summit seeking a common response to U.S. tariffs; Italy's fashion sector signs an accord to address worker exploitation in supply chains; Kenya backs Morocco's autonomy plan for Western Sahara
 - [2026-05-25](../outputs/2026/2026-05-25.md) - lookback 2025-05-25 - 4 entries
   - Topics: Suriname votes in a close parliamentary election before an expected oil boom; Rival Warsaw marches frame Poland's presidential runoff as a reform-veto contest; South Korea's overseas presidential voting closes at record turnout; Bangladesh civil-service and tax-authority protests widen under the interim government
 - [2026-05-24](../outputs/2026/2026-05-24.md) - lookback 2025-05-24 - 4 entries
