@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-27](../outputs/2026/2026-05-27.md) - lookback 2025-05-27 - 4 entries
+  - Topics: EU ministers approve the EUR 150 billion SAFE defence-loan instrument; France's National Assembly approves an assisted-dying bill on first reading; SpaceX's Starship Flight 9 loses control and breaks apart; A federal judge blocks retaliation against New York's congestion-pricing program
 - [2026-05-26](../outputs/2026/2026-05-26.md) - lookback 2025-05-26 - 4 entries
   - Topics: A car is driven into Liverpool supporters during a Premier League victory parade; ASEAN opens a Kuala Lumpur summit seeking a common response to U.S. tariffs; Italy's fashion sector signs an accord to address worker exploitation in supply chains; Kenya backs Morocco's autonomy plan for Western Sahara
 - [2026-05-25](../outputs/2026/2026-05-25.md) - lookback 2025-05-25 - 4 entries
