@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-05-28](../outputs/2026/2026-05-28.md) - lookback 2025-05-28 - 4 entries
+  - Topics: A U.S. trade court blocks most Trump emergency tariffs; Flooding devastates Mokwa, Nigeria; A fatal Thailand-Cambodia border clash reopens an old dispute; WMO says 2025-2029 temperatures are likely to stay near record levels
 - [2026-05-27](../outputs/2026/2026-05-27.md) - lookback 2025-05-27 - 4 entries
   - Topics: EU ministers approve the EUR 150 billion SAFE defence-loan instrument; France's National Assembly approves an assisted-dying bill on first reading; SpaceX's Starship Flight 9 loses control and breaks apart; A federal judge blocks retaliation against New York's congestion-pricing program
 - [2026-05-26](../outputs/2026/2026-05-26.md) - lookback 2025-05-26 - 4 entries
