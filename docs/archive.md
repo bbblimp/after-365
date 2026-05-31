@@ -3,6 +3,14 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-01](../outputs/2026/2026-06-01.md) - lookback 2025-06-01 - 4 entries
+  - Topics: Ukraine launches Operation Spiderweb against Russian strategic aircraft; Mexico holds its first nationwide judicial elections; Palestinians are killed while heading to a Gaza aid site; The UK ban on single-use vapes takes effect
+- [2026-05-31](../outputs/2026/2026-05-31.md) - lookback 2025-05-31 - 4 entries
+  - Topics: Georgia's new foreign-agent registration law takes effect; Bulgarians protest the euro before accession is approved; OPEC+ accelerates the return of voluntary oil supply; The White House withdraws Jared Isaacman's NASA nomination
+- [2026-05-30](../outputs/2026/2026-05-30.md) - lookback 2025-05-30 - 3 entries
+  - Topics: Supreme Court lets the Trump administration end CHNV humanitarian parole protections; China and partner states sign the convention creating the International Organization for Mediation; A divided UN Security Council renews South Sudan sanctions and arms embargo
+- [2026-05-29](../outputs/2026/2026-05-29.md) - lookback 2025-05-29 - 4 entries
+  - Topics: Supreme Court narrows NEPA review in the Seven County case; Sidi Ould Tah is elected president of the African Development Bank; State Department sends Congress a deeper reorganization plan; A glacier collapse buries most of Blatten, Switzerland
 - [2026-05-28](../outputs/2026/2026-05-28.md) - lookback 2025-05-28 - 4 entries
   - Topics: A U.S. trade court blocks most Trump emergency tariffs; Flooding devastates Mokwa, Nigeria; A fatal Thailand-Cambodia border clash reopens an old dispute; WMO says 2025-2029 temperatures are likely to stay near record levels
 - [2026-05-27](../outputs/2026/2026-05-27.md) - lookback 2025-05-27 - 4 entries
