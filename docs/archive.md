@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-02](../outputs/2026/2026-06-02.md) - lookback 2025-06-02 - 4 entries
+  - Topics: Mongolia's prime minister loses a confidence vote after corruption protests; The UK publishes a Strategic Defence Review built around warfighting readiness; Gabon moves to ban raw manganese exports from 2029; The Boulder firebombing suspect is charged with a federal hate crime
 - [2026-06-01](../outputs/2026/2026-06-01.md) - lookback 2025-06-01 - 4 entries
   - Topics: Ukraine launches Operation Spiderweb against Russian strategic aircraft; Mexico holds its first nationwide judicial elections; Palestinians are killed while heading to a Gaza aid site; The UK ban on single-use vapes takes effect
 - [2026-05-31](../outputs/2026/2026-05-31.md) - lookback 2025-05-31 - 4 entries
