@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-03](../outputs/2026/2026-06-03.md) - lookback 2025-06-03 - 4 entries
+  - Topics: Lee Jae-myung wins South Korea's snap presidential election; The Dutch government collapses after Geert Wilders quits the coalition; A UN aid convoy is attacked near Al Koma in North Darfur; Human Rights Watch reports M23 executions of civilians in Goma
 - [2026-06-02](../outputs/2026/2026-06-02.md) - lookback 2025-06-02 - 4 entries
   - Topics: Mongolia's prime minister loses a confidence vote after corruption protests; The UK publishes a Strategic Defence Review built around warfighting readiness; Gabon moves to ban raw manganese exports from 2029; The Boulder firebombing suspect is charged with a federal hate crime
 - [2026-06-01](../outputs/2026/2026-06-01.md) - lookback 2025-06-01 - 4 entries
