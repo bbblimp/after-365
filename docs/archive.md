@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-04](../outputs/2026/2026-06-04.md) - lookback 2025-06-04 - 4 entries
+  - Topics: Vietnam scraps its two-child policy amid falling fertility; A crowd crush outside Bengaluru's Chinnaswamy Stadium kills 11 fans; Three former Salvadoran officers are convicted over the 1982 killings of Dutch journalists; Pornhub's owner blocks access in France over age-verification rules
 - [2026-06-03](../outputs/2026/2026-06-03.md) - lookback 2025-06-03 - 4 entries
   - Topics: Lee Jae-myung wins South Korea's snap presidential election; The Dutch government collapses after Geert Wilders quits the coalition; A UN aid convoy is attacked near Al Koma in North Darfur; Human Rights Watch reports M23 executions of civilians in Goma
 - [2026-06-02](../outputs/2026/2026-06-02.md) - lookback 2025-06-02 - 4 entries
