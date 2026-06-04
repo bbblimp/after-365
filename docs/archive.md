@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-05](../outputs/2026/2026-06-05.md) - lookback 2025-06-05 - 4 entries
+  - Topics: The United States sanctions four International Criminal Court judges; Burundi holds parliamentary elections that give the ruling party every elected seat; The World Bank resumes new financing to Uganda after an anti-LGBT law freeze; Nintendo releases the Switch 2 worldwide
 - [2026-06-04](../outputs/2026/2026-06-04.md) - lookback 2025-06-04 - 4 entries
   - Topics: Vietnam scraps its two-child policy amid falling fertility; A crowd crush outside Bengaluru's Chinnaswamy Stadium kills 11 fans; Three former Salvadoran officers are convicted over the 1982 killings of Dutch journalists; Pornhub's owner blocks access in France over age-verification rules
 - [2026-06-03](../outputs/2026/2026-06-03.md) - lookback 2025-06-03 - 4 entries
