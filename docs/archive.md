@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-06](../outputs/2026/2026-06-06.md) - lookback 2025-06-06 - 4 entries
+  - Topics: Los Angeles protests begin after federal immigration raids; Thailand and Cambodia escalate emergency border measures after a fatal clash; Togo security forces disperse rare protests against Faure Gnassingbe's continued rule; Japan's ispace declares its second lunar landing attempt a failure
 - [2026-06-05](../outputs/2026/2026-06-05.md) - lookback 2025-06-05 - 4 entries
   - Topics: The United States sanctions four International Criminal Court judges; Burundi holds parliamentary elections that give the ruling party every elected seat; The World Bank resumes new financing to Uganda after an anti-LGBT law freeze; Nintendo releases the Switch 2 worldwide
 - [2026-06-04](../outputs/2026/2026-06-04.md) - lookback 2025-06-04 - 4 entries
