@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-07](../outputs/2026/2026-06-07.md) - lookback 2025-06-07 - 4 entries
+  - Topics: Colombian presidential hopeful Miguel Uribe is shot at a campaign event; Iran says it obtained sensitive Israeli nuclear documents; China says it may speed rare earth export approvals for EU firms; A senior Taiwanese official visits the proposed Alaska LNG project
 - [2026-06-06](../outputs/2026/2026-06-06.md) - lookback 2025-06-06 - 4 entries
   - Topics: Los Angeles protests begin after federal immigration raids; Thailand and Cambodia escalate emergency border measures after a fatal clash; Togo security forces disperse rare protests against Faure Gnassingbe's continued rule; Japan's ispace declares its second lunar landing attempt a failure
 - [2026-06-05](../outputs/2026/2026-06-05.md) - lookback 2025-06-05 - 4 entries
