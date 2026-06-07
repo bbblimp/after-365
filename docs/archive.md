@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-08](../outputs/2026/2026-06-08.md) - lookback 2025-06-08 - 4 entries
+  - Topics: Tens of thousands protest in Madrid against Pedro Sanchez's government; Italy votes on citizenship and job-protection referendums amid low turnout; Hong Kong's leader says the U.S. dollar peg will stay; World Oceans Day events set up the 2025 UN Ocean Conference in Nice
 - [2026-06-07](../outputs/2026/2026-06-07.md) - lookback 2025-06-07 - 4 entries
   - Topics: Colombian presidential hopeful Miguel Uribe is shot at a campaign event; Iran says it obtained sensitive Israeli nuclear documents; China says it may speed rare earth export approvals for EU firms; A senior Taiwanese official visits the proposed Alaska LNG project
 - [2026-06-06](../outputs/2026/2026-06-06.md) - lookback 2025-06-06 - 4 entries
