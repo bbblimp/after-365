@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-09](../outputs/2026/2026-06-09.md) - lookback 2025-06-09 - 4 entries
+  - Topics: Kenyan police tear gas protesters after Albert Ojwang dies in custody; U.S. and China open London trade talks focused on tariffs and export controls; Philippine Senate passes the Anti-POGO Act on final reading; Apple previews iOS 26 and the Liquid Glass software design
 - [2026-06-08](../outputs/2026/2026-06-08.md) - lookback 2025-06-08 - 4 entries
   - Topics: Tens of thousands protest in Madrid against Pedro Sanchez's government; Italy votes on citizenship and job-protection referendums amid low turnout; Hong Kong's leader says the U.S. dollar peg will stay; World Oceans Day events set up the 2025 UN Ocean Conference in Nice
 - [2026-06-07](../outputs/2026/2026-06-07.md) - lookback 2025-06-07 - 4 entries
