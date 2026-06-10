@@ -3,6 +3,10 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-11](../outputs/2026/2026-06-11.md) - lookback 2025-06-11 - 3 entries
+  - Topics: Solar Orbiter releases the first images of the Sun's south pole; Brian Wilson dies at 82; The Justice Department directs prosecutors to prioritize denaturalization cases
+- [2026-06-10](../outputs/2026/2026-06-10.md) - lookback 2025-06-10 - 4 entries
+  - Topics: A former student kills 10 people at a school in Graz, Austria; World Bank cuts 2025 growth forecasts for nearly 70 percent of economies; The UK commits major public funding to Sizewell C nuclear power; Robert F. Kennedy Jr. removes the CDC vaccine advisory committee
 - [2026-06-09](../outputs/2026/2026-06-09.md) - lookback 2025-06-09 - 4 entries
   - Topics: Kenyan police tear gas protesters after Albert Ojwang dies in custody; U.S. and China open London trade talks focused on tariffs and export controls; Philippine Senate passes the Anti-POGO Act on final reading; Apple previews iOS 26 and the Liquid Glass software design
 - [2026-06-08](../outputs/2026/2026-06-08.md) - lookback 2025-06-08 - 4 entries
