@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-12](../outputs/2026/2026-06-12.md) - lookback 2025-06-12 - 3 entries
+  - Topics: Air India Flight 171 crashes after takeoff from Ahmedabad; Flash flooding in San Antonio sweeps vehicles into Beitel Creek; Micron announces a $200 billion U.S. memory-chip investment
 - [2026-06-11](../outputs/2026/2026-06-11.md) - lookback 2025-06-11 - 3 entries
   - Topics: Solar Orbiter releases the first images of the Sun's south pole; Brian Wilson dies at 82; The Justice Department directs prosecutors to prioritize denaturalization cases
 - [2026-06-10](../outputs/2026/2026-06-10.md) - lookback 2025-06-10 - 4 entries
