@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-13](../outputs/2026/2026-06-13.md) - lookback 2025-06-13 - 3 entries
+  - Topics: Israel strikes Iranian nuclear and military sites, starting direct Iran-Israel war; Trump approves Nippon Steel's U.S. Steel takeover under a national-security agreement; China and Hong Kong authorities launch first publicly known joint national-security operation
 - [2026-06-12](../outputs/2026/2026-06-12.md) - lookback 2025-06-12 - 3 entries
   - Topics: Air India Flight 171 crashes after takeoff from Ahmedabad; Flash flooding in San Antonio sweeps vehicles into Beitel Creek; Micron announces a $200 billion U.S. memory-chip investment
 - [2026-06-11](../outputs/2026/2026-06-11.md) - lookback 2025-06-11 - 3 entries
