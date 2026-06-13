@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-14](../outputs/2026/2026-06-14.md) - lookback 2025-06-14 - 4 entries
+  - Topics: Minnesota lawmakers and spouses are targeted in politically motivated shootings; No Kings protests unfold nationwide as Washington hosts the Army's 250th anniversary parade; Starmer announces a national statutory inquiry into grooming gangs; FIFA's expanded Club World Cup begins in the United States
 - [2026-06-13](../outputs/2026/2026-06-13.md) - lookback 2025-06-13 - 3 entries
   - Topics: Israel strikes Iranian nuclear and military sites, starting direct Iran-Israel war; Trump approves Nippon Steel's U.S. Steel takeover under a national-security agreement; China and Hong Kong authorities launch first publicly known joint national-security operation
 - [2026-06-12](../outputs/2026/2026-06-12.md) - lookback 2025-06-12 - 3 entries
