@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-15](../outputs/2026/2026-06-15.md) - lookback 2025-06-15 - 4 entries
+  - Topics: Blaise Metreweli is appointed as the first woman to lead MI6; Russia and Ukraine carry out a large-scale repatriation of soldiers' remains; Nicolas Sarkozy is stripped of the Legion of Honour; G7 leaders gather in Kananaskis under pressure from war and trade disputes
 - [2026-06-14](../outputs/2026/2026-06-14.md) - lookback 2025-06-14 - 4 entries
   - Topics: Minnesota lawmakers and spouses are targeted in politically motivated shootings; No Kings protests unfold nationwide as Washington hosts the Army's 250th anniversary parade; Starmer announces a national statutory inquiry into grooming gangs; FIFA's expanded Club World Cup begins in the United States
 - [2026-06-13](../outputs/2026/2026-06-13.md) - lookback 2025-06-13 - 3 entries
