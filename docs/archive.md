@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-16](../outputs/2026/2026-06-16.md) - lookback 2025-06-16 - 3 entries
+  - Topics: Canada's One Canadian Economy Act passes second reading under an expedited timetable; Senate Republicans release the tax-and-Medicaid core of the reconciliation bill; The Paris Air Show opens with defense, space, and aviation-safety pressures in the foreground
 - [2026-06-15](../outputs/2026/2026-06-15.md) - lookback 2025-06-15 - 4 entries
   - Topics: Blaise Metreweli is appointed as the first woman to lead MI6; Russia and Ukraine carry out a large-scale repatriation of soldiers' remains; Nicolas Sarkozy is stripped of the Legion of Honour; G7 leaders gather in Kananaskis under pressure from war and trade disputes
 - [2026-06-14](../outputs/2026/2026-06-14.md) - lookback 2025-06-14 - 4 entries
