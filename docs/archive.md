@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-17](../outputs/2026/2026-06-17.md) - lookback 2025-06-17 - 3 entries
+  - Topics: The U.S. Senate passes the GENIUS Act stablecoin bill; British MPs vote to decriminalise self-managed abortion for women in England and Wales; SAMHSA announces the end of 988's LGBTQ youth Press 3 service
 - [2026-06-16](../outputs/2026/2026-06-16.md) - lookback 2025-06-16 - 3 entries
   - Topics: Canada's One Canadian Economy Act passes second reading under an expedited timetable; Senate Republicans release the tax-and-Medicaid core of the reconciliation bill; The Paris Air Show opens with defense, space, and aviation-safety pressures in the foreground
 - [2026-06-15](../outputs/2026/2026-06-15.md) - lookback 2025-06-15 - 4 entries
