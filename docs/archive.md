@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-19](../outputs/2026/2026-06-19.md) - lookback 2025-06-19 - 3 entries
+  - Topics: The Ninth Circuit lets Trump keep the California National Guard under federal control in Los Angeles; Trump grants TikTok a third U.S. ban reprieve; Congo's justice minister resigns over a prison-funds embezzlement investigation
 - [2026-06-18](../outputs/2026/2026-06-18.md) - lookback 2025-06-18 - 4 entries
   - Topics: The U.S. Supreme Court upholds Tennessee's ban on gender-affirming care for minors; The FDA approves twice-yearly lenacapavir for HIV prevention; A leaked Hun Sen call pushes Thailand's governing coalition into crisis; A Nature study estimates large climate-driven losses to staple-crop calories even with adaptation
 - [2026-06-17](../outputs/2026/2026-06-17.md) - lookback 2025-06-17 - 3 entries
