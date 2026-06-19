@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-20](../outputs/2026/2026-06-20.md) - lookback 2025-06-20 - 4 entries
+  - Topics: EU finance ministers support Bulgaria's path to adopting the euro; A conservation deal ends the immediate mining threat outside the Okefenokee Swamp; Mahmoud Khalil is released from immigration detention; A deadly North Dakota tornado later becomes the first U.S. EF5 in twelve years
 - [2026-06-19](../outputs/2026/2026-06-19.md) - lookback 2025-06-19 - 3 entries
   - Topics: The Ninth Circuit lets Trump keep the California National Guard under federal control in Los Angeles; Trump grants TikTok a third U.S. ban reprieve; Congo's justice minister resigns over a prison-funds embezzlement investigation
 - [2026-06-18](../outputs/2026/2026-06-18.md) - lookback 2025-06-18 - 4 entries
