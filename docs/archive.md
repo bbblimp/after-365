@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-22](../outputs/2026/2026-06-22.md) - lookback 2025-06-22 - 3 entries
+  - Topics: Spain secures a NATO exemption from the 5 percent defense-spending target; Tokyo's assembly election weakens Japan's ruling-party signal before national contests; The Oklahoma City Thunder win their first NBA title in Oklahoma City
 - [2026-06-21](../outputs/2026/2026-06-21.md) - lookback 2025-06-21 - 3 entries
   - Topics: The United States strikes Iranian nuclear sites; Belarus frees Siarhei Tsikhanouski and 13 other political prisoners; Texas requires Ten Commandments displays in public-school classrooms
 - [2026-06-20](../outputs/2026/2026-06-20.md) - lookback 2025-06-20 - 4 entries
