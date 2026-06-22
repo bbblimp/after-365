@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-23](../outputs/2026/2026-06-23.md) - lookback 2025-06-23 - 4 entries
+  - Topics: USDA announces a move to rescind the national roadless rule; Rubin Observatory releases its first full-system images; The UK government moves to proscribe Palestine Action under terrorism law; Major U.S. health insurers pledge to streamline prior authorization
 - [2026-06-22](../outputs/2026/2026-06-22.md) - lookback 2025-06-22 - 3 entries
   - Topics: Spain secures a NATO exemption from the 5 percent defense-spending target; Tokyo's assembly election weakens Japan's ruling-party signal before national contests; The Oklahoma City Thunder win their first NBA title in Oklahoma City
 - [2026-06-21](../outputs/2026/2026-06-21.md) - lookback 2025-06-21 - 3 entries
