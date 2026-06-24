@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-25](../outputs/2026/2026-06-25.md) - lookback 2025-06-25 - 2 entries
+  - Topics: Axiom Mission 4 launches astronauts from India, Poland, and Hungary to the ISS; NATO leaders issue The Hague declaration committing to a 5 percent investment target
 - [2026-06-24](../outputs/2026/2026-06-24.md) - lookback 2025-06-24 - 3 entries
   - Topics: Zohran Mamdani declares victory in New York City's Democratic mayoral primary; A dangerous early-summer heat wave peaks across the eastern United States; U.S. regulators scrutinize videos from Tesla's first Austin robotaxi rollout
 - [2026-06-23](../outputs/2026/2026-06-23.md) - lookback 2025-06-23 - 4 entries
