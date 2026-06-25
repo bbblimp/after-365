@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-26](../outputs/2026/2026-06-26.md) - lookback 2025-06-26 - 3 entries
+  - Topics: Supreme Court lets states exclude Planned Parenthood from Medicaid programs; Nigeria's president signs a major tax overhaul into law; Lalo Schifrin dies after a career that reshaped screen music
 - [2026-06-25](../outputs/2026/2026-06-25.md) - lookback 2025-06-25 - 2 entries
   - Topics: Axiom Mission 4 launches astronauts from India, Poland, and Hungary to the ISS; NATO leaders issue The Hague declaration committing to a 5 percent investment target
 - [2026-06-24](../outputs/2026/2026-06-24.md) - lookback 2025-06-24 - 3 entries
