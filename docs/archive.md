@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-27](../outputs/2026/2026-06-27.md) - lookback 2025-06-27 - 3 entries
+  - Topics: Congo and Rwanda sign a U.S.-mediated peace agreement; The Supreme Court limits universal injunctions in Trump v. CASA; The United States and China announce a rare-earth trade de-escalation
 - [2026-06-26](../outputs/2026/2026-06-26.md) - lookback 2025-06-26 - 3 entries
   - Topics: Supreme Court lets states exclude Planned Parenthood from Medicaid programs; Nigeria's president signs a major tax overhaul into law; Lalo Schifrin dies after a career that reshaped screen music
 - [2026-06-25](../outputs/2026/2026-06-25.md) - lookback 2025-06-25 - 2 entries
