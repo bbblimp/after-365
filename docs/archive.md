@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-29](../outputs/2026/2026-06-29.md) - lookback 2025-06-29 - 4 entries
+  - Topics: Ukraine moves to withdraw from the Ottawa anti-personnel mine treaty; Jeannette Jara wins Chile's governing-left presidential primary; Thom Tillis says he will not seek reelection after breaking with Trump on a major bill; Wildfires in Turkey's Izmir province force mass evacuations
 - [2026-06-28](../outputs/2026/2026-06-28.md) - lookback 2025-06-28 - 3 entries
   - Topics: Budapest Pride defies Hungary's ban; Syria's post-Assad authorities outline a path toward a new parliament; A suicide car bombing kills Pakistani soldiers in North Waziristan
 - [2026-06-27](../outputs/2026/2026-06-27.md) - lookback 2025-06-27 - 3 entries
