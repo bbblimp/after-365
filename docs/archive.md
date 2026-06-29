@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-06-30](../outputs/2026/2026-06-30.md) - lookback 2025-06-30 - 4 entries
+  - Topics: Canada rescinds its digital services tax before first collections; China partly lifts its ban on Japanese seafood imports; Deadly Gaza aid-site shootings deepen scrutiny of the Gaza Humanitarian Foundation model; The Supreme Court agrees to hear Cox's ISP copyright-liability case
 - [2026-06-29](../outputs/2026/2026-06-29.md) - lookback 2025-06-29 - 4 entries
   - Topics: Ukraine moves to withdraw from the Ottawa anti-personnel mine treaty; Jeannette Jara wins Chile's governing-left presidential primary; Thom Tillis says he will not seek reelection after breaking with Trump on a major bill; Wildfires in Turkey's Izmir province force mass evacuations
 - [2026-06-28](../outputs/2026/2026-06-28.md) - lookback 2025-06-28 - 3 entries
