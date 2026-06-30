@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-01](../outputs/2026/2026-07-01.md) - lookback 2025-07-01 - 4 entries
+  - Topics: Thailand's court suspends Paetongtarn Shinawatra from office; The U.S. Senate passes the budget megabill on a tie-breaker; Starmer's welfare bill passes after a disability-benefit climbdown; The Esparto fireworks explosion becomes a criminal and regulatory case
 - [2026-06-30](../outputs/2026/2026-06-30.md) - lookback 2025-06-30 - 4 entries
   - Topics: Canada rescinds its digital services tax before first collections; China partly lifts its ban on Japanese seafood imports; Deadly Gaza aid-site shootings deepen scrutiny of the Gaza Humanitarian Foundation model; The Supreme Court agrees to hear Cox's ISP copyright-liability case
 - [2026-06-29](../outputs/2026/2026-06-29.md) - lookback 2025-06-29 - 4 entries
