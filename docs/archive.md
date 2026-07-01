@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-02](../outputs/2026/2026-07-02.md) - lookback 2025-07-02 - 4 entries
+  - Topics: Iran suspends cooperation with the IAEA after the June strikes; The European Commission proposes a 90 percent 2040 climate target; Wisconsin's Supreme Court strikes down the state's 1849 abortion ban; Del Monte Foods files for Chapter 11 bankruptcy protection
 - [2026-07-01](../outputs/2026/2026-07-01.md) - lookback 2025-07-01 - 4 entries
   - Topics: Thailand's court suspends Paetongtarn Shinawatra from office; The U.S. Senate passes the budget megabill on a tie-breaker; Starmer's welfare bill passes after a disability-benefit climbdown; The Esparto fireworks explosion becomes a criminal and regulatory case
 - [2026-06-30](../outputs/2026/2026-06-30.md) - lookback 2025-06-30 - 4 entries
