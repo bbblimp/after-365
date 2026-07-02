@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-03](../outputs/2026/2026-07-03.md) - lookback 2025-07-03 - 3 entries
+  - Topics: Russia formally recognizes the Taliban government of Afghanistan; Ethiopia says the Grand Ethiopian Renaissance Dam is complete; Astronomers confirm 3I/ATLAS as a rare interstellar visitor
 - [2026-07-02](../outputs/2026/2026-07-02.md) - lookback 2025-07-02 - 4 entries
   - Topics: Iran suspends cooperation with the IAEA after the June strikes; The European Commission proposes a 90 percent 2040 climate target; Wisconsin's Supreme Court strikes down the state's 1849 abortion ban; Del Monte Foods files for Chapter 11 bankruptcy protection
 - [2026-07-01](../outputs/2026/2026-07-01.md) - lookback 2025-07-01 - 4 entries
