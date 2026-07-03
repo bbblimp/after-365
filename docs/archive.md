@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-04](../outputs/2026/2026-07-04.md) - lookback 2025-07-04 - 3 entries
+  - Topics: Central Texas floods devastate the Guadalupe River corridor; Brazil arrests a suspect after a major Pix-linked banking hack; Oasis begins its reunion tour in Cardiff after a 16-year hiatus
 - [2026-07-03](../outputs/2026/2026-07-03.md) - lookback 2025-07-03 - 3 entries
   - Topics: Russia formally recognizes the Taliban government of Afghanistan; Ethiopia says the Grand Ethiopian Renaissance Dam is complete; Astronomers confirm 3I/ATLAS as a rare interstellar visitor
 - [2026-07-02](../outputs/2026/2026-07-02.md) - lookback 2025-07-02 - 4 entries
