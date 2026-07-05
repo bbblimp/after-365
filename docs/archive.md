@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-06](../outputs/2026/2026-07-06.md) - lookback 2025-07-06 - 3 entries
+  - Topics: The Dalai Lama turns 90 after setting a succession boundary; The expanded BRICS summit opens in Rio with governance and climate ambitions; Typhoon Danas makes an unusual western Taiwan landfall
 - [2026-07-05](../outputs/2026/2026-07-05.md) - lookback 2025-07-05 - 3 entries
   - Topics: Paris reopens the Seine to public swimming after a century-long ban; Mexico City anti-gentrification protests force housing and tourism onto the policy agenda; The UK re-establishes diplomatic relations with post-Assad Syria
 - [2026-07-04](../outputs/2026/2026-07-04.md) - lookback 2025-07-04 - 3 entries
