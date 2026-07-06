@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-07](../outputs/2026/2026-07-07.md) - lookback 2025-07-07 - 4 entries
+  - Topics: The IRS backs a church-election speech carveout from the Johnson Amendment; U.S. measles cases reach a 33-year high; Iran's forced return of Afghans becomes a mass humanitarian crisis; The Eternity C attack turns renewed Red Sea shipping threats lethal
 - [2026-07-06](../outputs/2026/2026-07-06.md) - lookback 2025-07-06 - 3 entries
   - Topics: The Dalai Lama turns 90 after setting a succession boundary; The expanded BRICS summit opens in Rio with governance and climate ambitions; Typhoon Danas makes an unusual western Taiwan landfall
 - [2026-07-05](../outputs/2026/2026-07-05.md) - lookback 2025-07-05 - 3 entries
