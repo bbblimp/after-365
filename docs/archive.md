@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-08](../outputs/2026/2026-07-08.md) - lookback 2025-07-08 - 3 entries
+  - Topics: The Horizon inquiry turns a technology scandal into an institutional-accountability test; The Bayeux Tapestry loan becomes a live test of cultural diplomacy and conservation risk; English football regulation moves from protest demand to statutory machinery
 - [2026-07-07](../outputs/2026/2026-07-07.md) - lookback 2025-07-07 - 4 entries
   - Topics: The IRS backs a church-election speech carveout from the Johnson Amendment; U.S. measles cases reach a 33-year high; Iran's forced return of Afghans becomes a mass humanitarian crisis; The Eternity C attack turns renewed Red Sea shipping threats lethal
 - [2026-07-06](../outputs/2026/2026-07-06.md) - lookback 2025-07-06 - 3 entries
