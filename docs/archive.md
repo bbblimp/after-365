@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-10](../outputs/2026/2026-07-10.md) - lookback 2025-07-10 - 3 entries
+  - Topics: The UK-France Channel returns pilot becomes a limited and contested asylum experiment; The Glass House raids turn immigration enforcement into a cannabis-labor test case; UK retail cyberattack arrests underline the real-world cost of social-engineering crime
 - [2026-07-09](../outputs/2026/2026-07-09.md) - lookback 2025-07-09 - 4 entries
   - Topics: Trump's Brazil tariff threat turns trade policy into pressure on a foreign trial; Kenya's Saba Saba protest deaths become a continuing assembly-rights test; The ECHR's Russia judgment turns MH17 and Ukraine abuses into a formal human-rights record; Texas's redistricting session call becomes a national fight over mid-decade maps
 - [2026-07-08](../outputs/2026/2026-07-08.md) - lookback 2025-07-08 - 3 entries
