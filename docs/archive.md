@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-11](../outputs/2026/2026-07-11.md) - lookback 2025-07-11 - 4 entries
+  - Topics: Wyoming's Brook Mine opens as a coal-and-rare-earth supply-chain test; Myanmar's Lin Ta Lu monastery airstrike foreshadows an election held under war; The UN's Gaza aid-site death count turns food distribution into a central war record; The Maratha forts' UNESCO listing turns military heritage into a preservation test
 - [2026-07-10](../outputs/2026/2026-07-10.md) - lookback 2025-07-10 - 3 entries
   - Topics: The UK-France Channel returns pilot becomes a limited and contested asylum experiment; The Glass House raids turn immigration enforcement into a cannabis-labor test case; UK retail cyberattack arrests underline the real-world cost of social-engineering crime
 - [2026-07-09](../outputs/2026/2026-07-09.md) - lookback 2025-07-09 - 4 entries
