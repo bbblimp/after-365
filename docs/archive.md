@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-13](../outputs/2026/2026-07-13.md) - lookback 2025-07-13 - 3 entries
+  - Topics: Suwayda's clashes become a post-Assad fragmentation test; The Dragon Bravo Fire turns the Grand Canyon's North Rim into a recovery test; Chelsea's Club World Cup title becomes a test case for FIFA's expanded model
 - [2026-07-12](../outputs/2026/2026-07-12.md) - lookback 2025-07-12 - 3 entries
   - Topics: New Caledonia's Bougival accord becomes a fragile autonomy test; The Ituri ADF massacre shows the limits of Congo's parallel peace tracks; Camp Mystic flood records move a Texas disaster from rescue to accountability
 - [2026-07-11](../outputs/2026/2026-07-11.md) - lookback 2025-07-11 - 4 entries
