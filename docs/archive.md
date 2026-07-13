@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-14](../outputs/2026/2026-07-14.md) - lookback 2025-07-14 - 3 entries
+  - Topics: The Education Department layoffs turn emergency relief into a governing tool; The climate-report shutdown turns public science into an access problem; The NATO-funded Ukraine arms model becomes a test of alliance endurance
 - [2026-07-13](../outputs/2026/2026-07-13.md) - lookback 2025-07-13 - 3 entries
   - Topics: Suwayda's clashes become a post-Assad fragmentation test; The Dragon Bravo Fire turns the Grand Canyon's North Rim into a recovery test; Chelsea's Club World Cup title becomes a test case for FIFA's expanded model
 - [2026-07-12](../outputs/2026/2026-07-12.md) - lookback 2025-07-12 - 3 entries
