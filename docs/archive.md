@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-15](../outputs/2026/2026-07-15.md) - lookback 2025-07-15 - 4 entries
+  - Topics: Pennsylvania's AI-energy summit turns data centers into a grid test; The Los Angeles Guard drawdown leaves a federalism test behind; The 26th U.S. execution of 2025 makes capital punishment a state-capacity story again; The Indonesia tariff deal turns reciprocal trade into a minerals-and-energy bargain
 - [2026-07-14](../outputs/2026/2026-07-14.md) - lookback 2025-07-14 - 3 entries
   - Topics: The Education Department layoffs turn emergency relief into a governing tool; The climate-report shutdown turns public science into an access problem; The NATO-funded Ukraine arms model becomes a test of alliance endurance
 - [2026-07-13](../outputs/2026/2026-07-13.md) - lookback 2025-07-13 - 3 entries
