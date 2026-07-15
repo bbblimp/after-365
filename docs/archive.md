@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-16](../outputs/2026/2026-07-16.md) - lookback 2025-07-16 - 4 entries
+  - Topics: Cambodia's scam-center raids turn cybercrime into a trafficking and state-capacity test; Maurene Comey's firing makes DOJ personnel control a rule-of-law test; The HALT Fentanyl Act turns a falling-overdose moment into an enforcement-law test; California high-speed rail loses federal money and becomes a state-capacity project
 - [2026-07-15](../outputs/2026/2026-07-15.md) - lookback 2025-07-15 - 4 entries
   - Topics: Pennsylvania's AI-energy summit turns data centers into a grid test; The Los Angeles Guard drawdown leaves a federalism test behind; The 26th U.S. execution of 2025 makes capital punishment a state-capacity story again; The Indonesia tariff deal turns reciprocal trade into a minerals-and-energy bargain
 - [2026-07-14](../outputs/2026/2026-07-14.md) - lookback 2025-07-14 - 3 entries
