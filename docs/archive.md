@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-17](../outputs/2026/2026-07-17.md) - lookback 2025-07-17 - 3 entries
+  - Topics: The rescissions vote turns public media and foreign aid into a power-of-the-purse test; Puerto Rico's under-21 gender-care ban makes territorial rights policy harsher than many state laws; Slovenia's Israeli-minister ban becomes a marker of unilateral EU pressure over Gaza
 - [2026-07-16](../outputs/2026/2026-07-16.md) - lookback 2025-07-16 - 4 entries
   - Topics: Cambodia's scam-center raids turn cybercrime into a trafficking and state-capacity test; Maurene Comey's firing makes DOJ personnel control a rule-of-law test; The HALT Fentanyl Act turns a falling-overdose moment into an enforcement-law test; California high-speed rail loses federal money and becomes a state-capacity project
 - [2026-07-15](../outputs/2026/2026-07-15.md) - lookback 2025-07-15 - 4 entries
