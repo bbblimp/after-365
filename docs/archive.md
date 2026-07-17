@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-18](../outputs/2026/2026-07-18.md) - lookback 2025-07-18 - 4 entries
+  - Topics: Bolsonaro's ankle monitor becomes a threshold moment in Brazil's coup-accountability case; The Los Angeles sheriff explosion becomes a safety-accountability case; Trinidad and Tobago's emergency order exposes a prison command-center problem; Mitochondrial-donation results move three-person IVF from law to clinical evidence
 - [2026-07-17](../outputs/2026/2026-07-17.md) - lookback 2025-07-17 - 3 entries
   - Topics: The rescissions vote turns public media and foreign aid into a power-of-the-purse test; Puerto Rico's under-21 gender-care ban makes territorial rights policy harsher than many state laws; Slovenia's Israeli-minister ban becomes a marker of unilateral EU pressure over Gaza
 - [2026-07-16](../outputs/2026/2026-07-16.md) - lookback 2025-07-16 - 4 entries
