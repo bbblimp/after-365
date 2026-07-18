@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-19](../outputs/2026/2026-07-19.md) - lookback 2025-07-19 - 4 entries
+  - Topics: Yoon's July indictment becomes part of South Korea's martial-law accountability record; The Venezuela-El Salvador exchange turns offshore detention into a rights record; The EU AI code turns a company split into a compliance boundary; Pakistan's July monsoon deaths become the opening record of a national flood season
 - [2026-07-18](../outputs/2026/2026-07-18.md) - lookback 2025-07-18 - 4 entries
   - Topics: Bolsonaro's ankle monitor becomes a threshold moment in Brazil's coup-accountability case; The Los Angeles sheriff explosion becomes a safety-accountability case; Trinidad and Tobago's emergency order exposes a prison command-center problem; Mitochondrial-donation results move three-person IVF from law to clinical evidence
 - [2026-07-17](../outputs/2026/2026-07-17.md) - lookback 2025-07-17 - 3 entries
