@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-21](../outputs/2026/2026-07-21.md) - lookback 2025-07-21 - 4 entries
+  - Topics: The Milestone school jet crash becomes a Bangladesh aviation-accountability record; ToolShell turns SharePoint patching into a government-wide emergency; China's quiet rare-earth quota move becomes part of a wider control regime; The Head Start benefits lawsuit turns a policy notice into a federal-state boundary test
 - [2026-07-20](../outputs/2026/2026-07-20.md) - lookback 2025-07-20 - 4 entries
   - Topics: Japan's upper-house loss becomes the end of Ishiba's minority mandate; Azerbaijan's AZAL lawsuit threat becomes a state-responsibility settlement; Biya's July campaign signal becomes Cameroon's disputed eighth-term record; Kamchatka's July 20 quake becomes a foreshock in the Pacific hazard record
 - [2026-07-19](../outputs/2026/2026-07-19.md) - lookback 2025-07-19 - 4 entries
