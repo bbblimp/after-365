@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-22](../outputs/2026/2026-07-22.md) - lookback 2025-07-22 - 4 entries
+  - Topics: The UNESCO withdrawal notice becomes a delayed test of U.S. cultural diplomacy; The organ-procurement hearing turns donor safety into an OPTN reform test; The AP access ruling leaves a live boundary around presidential press control; Wipha turns a monsoon week into a multi-cyclone Philippine disaster record
 - [2026-07-21](../outputs/2026/2026-07-21.md) - lookback 2025-07-21 - 4 entries
   - Topics: The Milestone school jet crash becomes a Bangladesh aviation-accountability record; ToolShell turns SharePoint patching into a government-wide emergency; China's quiet rare-earth quota move becomes part of a wider control regime; The Head Start benefits lawsuit turns a policy notice into a federal-state boundary test
 - [2026-07-20](../outputs/2026/2026-07-20.md) - lookback 2025-07-20 - 4 entries
