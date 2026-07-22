@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-23](../outputs/2026/2026-07-23.md) - lookback 2025-07-23 - 4 entries
+  - Topics: The AI Action Plan turns data centers and exports into federal industrial policy; Ukraine's anti-corruption protests become an EU-accession safeguard; A landmine blast turns the Thailand-Cambodia border dispute into a regional ceasefire problem; The U.S.-Japan tariff deal becomes a managed-alliance trade bargain
 - [2026-07-22](../outputs/2026/2026-07-22.md) - lookback 2025-07-22 - 4 entries
   - Topics: The UNESCO withdrawal notice becomes a delayed test of U.S. cultural diplomacy; The organ-procurement hearing turns donor safety into an OPTN reform test; The AP access ruling leaves a live boundary around presidential press control; Wipha turns a monsoon week into a multi-cyclone Philippine disaster record
 - [2026-07-21](../outputs/2026/2026-07-21.md) - lookback 2025-07-21 - 4 entries
