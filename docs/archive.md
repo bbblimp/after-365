@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-24](../outputs/2026/2026-07-24.md) - lookback 2025-07-24 - 4 entries
+  - Topics: France's Palestine pledge becomes a G7 recognition wave; The UK-India trade deal moves from signature to entry into force; The homelessness order turns federal grants into an enforcement-policy lever; The Qatar Airways search case survives as an airline-liability test
 - [2026-07-23](../outputs/2026/2026-07-23.md) - lookback 2025-07-23 - 4 entries
   - Topics: The AI Action Plan turns data centers and exports into federal industrial policy; Ukraine's anti-corruption protests become an EU-accession safeguard; A landmine blast turns the Thailand-Cambodia border dispute into a regional ceasefire problem; The U.S.-Japan tariff deal becomes a managed-alliance trade bargain
 - [2026-07-22](../outputs/2026/2026-07-22.md) - lookback 2025-07-22 - 4 entries
