@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-25](../outputs/2026/2026-07-25.md) - lookback 2025-07-25 - 4 entries
+  - Topics: The Istanbul nuclear talks become the last stop before snapback; France's Assad ruling narrows one immunity and preserves another; The Paramount-Skydance closing date becomes a wider consolidation marker; The air-pollution dementia link moves into global prevention guidance
 - [2026-07-24](../outputs/2026/2026-07-24.md) - lookback 2025-07-24 - 4 entries
   - Topics: France's Palestine pledge becomes a G7 recognition wave; The UK-India trade deal moves from signature to entry into force; The homelessness order turns federal grants into an enforcement-policy lever; The Qatar Airways search case survives as an airline-liability test
 - [2026-07-23](../outputs/2026/2026-07-23.md) - lookback 2025-07-23 - 4 entries
