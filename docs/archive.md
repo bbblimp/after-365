@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-26](../outputs/2026/2026-07-26.md) - lookback 2025-07-26 - 4 entries
+  - Topics: Taiwan's recall votes preserve the opposition legislature; NASA's resignation window becomes a long capacity test; The Tea app breach turns safety-by-verification into a privacy case study; Touadera's reelection bid becomes a third-term consolidation record
 - [2026-07-25](../outputs/2026/2026-07-25.md) - lookback 2025-07-25 - 4 entries
   - Topics: The Istanbul nuclear talks become the last stop before snapback; France's Assad ruling narrows one immunity and preserves another; The Paramount-Skydance closing date becomes a wider consolidation marker; The air-pollution dementia link moves into global prevention guidance
 - [2026-07-24](../outputs/2026/2026-07-24.md) - lookback 2025-07-24 - 4 entries
