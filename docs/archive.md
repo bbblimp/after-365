@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-28](../outputs/2026/2026-07-28.md) - lookback 2025-07-28 - 4 entries
+  - Topics: Uribe's conviction becomes a reversible rule-of-law stress test; New Zealand's voting-law warning becomes election-year statute; The Tesla-Samsung chip deal becomes a Texas foundry timeline test; The adult-games purge turns payment rails into platform governance
 - [2026-07-27](../outputs/2026/2026-07-27.md) - lookback 2025-07-27 - 4 entries
   - Topics: The U.S.-EU tariff framework averts a wider transatlantic trade war; The Riedlingen derailment becomes a rail-climate risk case; Balkan wildfires expose the EU's shared firefighting constraint; England's Euro defence becomes part of women's football's growth record
 - [2026-07-26](../outputs/2026/2026-07-26.md) - lookback 2025-07-26 - 4 entries
