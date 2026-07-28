@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-29](../outputs/2026/2026-07-29.md) - lookback 2025-07-29 - 4 entries
+  - Topics: EPA's endangerment proposal becomes a Clean Air Act rollback; The AU rejection of Sudan's parallel government becomes a fragmentation marker; Angola's fuel protests turn subsidy reform into a social-stability test; NOAA's satellite-data reprieve becomes a weather-infrastructure warning
 - [2026-07-28](../outputs/2026/2026-07-28.md) - lookback 2025-07-28 - 4 entries
   - Topics: Uribe's conviction becomes a reversible rule-of-law stress test; New Zealand's voting-law warning becomes election-year statute; The Tesla-Samsung chip deal becomes a Texas foundry timeline test; The adult-games purge turns payment rails into platform governance
 - [2026-07-27](../outputs/2026/2026-07-27.md) - lookback 2025-07-27 - 4 entries
