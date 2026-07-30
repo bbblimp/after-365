@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-07-31](../outputs/2026/2026-07-31.md) - lookback 2025-07-31 - 4 entries
+  - Topics: Myanmar's emergency-rule exit becomes election engineering; Aoun's Hezbollah warning becomes Lebanon's state-arms test; New Zealand's exploration vote becomes a live gas-permitting reversal; Paluckas's resignation becomes a Baltic coalition-accountability marker
 - [2026-07-30](../outputs/2026/2026-07-30.md) - lookback 2025-07-30 - 4 entries
   - Topics: The Kamchatka megaquake becomes a Pacific warning-system stress test; The DCA crash hearing turns one collision into a systemic airspace case; The split Fed hold records unusual governor dissents; The Moraes sanctions make Brazil's judiciary a bilateral pressure point
 - [2026-07-29](../outputs/2026/2026-07-29.md) - lookback 2025-07-29 - 4 entries
