@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-01](../outputs/2026/2026-08-01.md) - lookback 2025-08-01 - 4 entries
+  - Topics: CPB's wind-down becomes the end of the federal public-media intermediary; CDC's exemption data becomes a measles-resurgence warning; Serbia's Novi Sad arrests turn a collapse inquiry toward graft; The DRC killings disclosure becomes a test of civilian protection
 - [2026-07-31](../outputs/2026/2026-07-31.md) - lookback 2025-07-31 - 4 entries
   - Topics: Myanmar's emergency-rule exit becomes election engineering; Aoun's Hezbollah warning becomes Lebanon's state-arms test; New Zealand's exploration vote becomes a live gas-permitting reversal; Paluckas's resignation becomes a Baltic coalition-accountability marker
 - [2026-07-30](../outputs/2026/2026-07-30.md) - lookback 2025-07-30 - 4 entries
