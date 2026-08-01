@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-02](../outputs/2026/2026-08-02.md) - lookback 2025-08-02 - 4 entries
+  - Topics: EU AI Act GPAI rules move from obligation to enforcement; Hasina's tribunal hearings become an extradition test; Italy's West Nile deaths become Europe's mosquito-disease warning; The Kilis-Aleppo gas flow becomes a reconstruction-grid test
 - [2026-08-01](../outputs/2026/2026-08-01.md) - lookback 2025-08-01 - 4 entries
   - Topics: CPB's wind-down becomes the end of the federal public-media intermediary; CDC's exemption data becomes a measles-resurgence warning; Serbia's Novi Sad arrests turn a collapse inquiry toward graft; The DRC killings disclosure becomes a test of civilian protection
 - [2026-07-31](../outputs/2026/2026-07-31.md) - lookback 2025-07-31 - 4 entries
