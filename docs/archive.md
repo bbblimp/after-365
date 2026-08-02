@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-03](../outputs/2026/2026-08-03.md) - lookback 2025-08-03 - 4 entries
+  - Topics: OPEC+'s large output hike becomes a market-share test; The El Teniente deaths become a copper-mine accountability case; Zamfara's mass abduction becomes a marker of organized rural coercion; Pakistan-Iran agreements become a regional-security channel
 - [2026-08-02](../outputs/2026/2026-08-02.md) - lookback 2025-08-02 - 4 entries
   - Topics: EU AI Act GPAI rules move from obligation to enforcement; Hasina's tribunal hearings become an extradition test; Italy's West Nile deaths become Europe's mosquito-disease warning; The Kilis-Aleppo gas flow becomes a reconstruction-grid test
 - [2026-08-01](../outputs/2026/2026-08-01.md) - lookback 2025-08-01 - 4 entries
