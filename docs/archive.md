@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-04](../outputs/2026/2026-08-04.md) - lookback 2025-08-04 - 4 entries
+  - Topics: Boeing Defense's St. Louis strike becomes a defense-production labor test; Milei's vetoes become a fiscal-surplus limit test; The plastics-health warning becomes a treaty-deadlock marker; The Yemen migrant-boat disaster becomes an Eastern Route warning
 - [2026-08-03](../outputs/2026/2026-08-03.md) - lookback 2025-08-03 - 4 entries
   - Topics: OPEC+'s large output hike becomes a market-share test; The El Teniente deaths become a copper-mine accountability case; Zamfara's mass abduction becomes a marker of organized rural coercion; Pakistan-Iran agreements become a regional-security channel
 - [2026-08-02](../outputs/2026/2026-08-02.md) - lookback 2025-08-02 - 4 entries
