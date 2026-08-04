@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-05](../outputs/2026/2026-08-05.md) - lookback 2025-08-05 - 4 entries
+  - Topics: The Armenia-Azerbaijan White House invitation becomes a South Caucasus peace framework; The Great Barrier Reef coral-cover drop becomes a volatility record; ESPN's NFL Network deal becomes a sports-media ownership shift; Mexico's Pemex plan becomes a sovereign-support balance-sheet test
 - [2026-08-04](../outputs/2026/2026-08-04.md) - lookback 2025-08-04 - 4 entries
   - Topics: Boeing Defense's St. Louis strike becomes a defense-production labor test; Milei's vetoes become a fiscal-surplus limit test; The plastics-health warning becomes a treaty-deadlock marker; The Yemen migrant-boat disaster becomes an Eastern Route warning
 - [2026-08-03](../outputs/2026/2026-08-03.md) - lookback 2025-08-03 - 4 entries
