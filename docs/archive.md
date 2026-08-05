@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-06](../outputs/2026/2026-08-06.md) - lookback 2025-08-06 - 4 entries
+  - Topics: Texas's quorum-removal bid becomes a redistricting map-war case; The BARDA mRNA wind-down becomes a pandemic-preparedness test; The Aude wildfire becomes a Corbieres resilience plan; The Witkoff-Putin meeting becomes the Alaska no-deal prelude
 - [2026-08-05](../outputs/2026/2026-08-05.md) - lookback 2025-08-05 - 4 entries
   - Topics: The Armenia-Azerbaijan White House invitation becomes a South Caucasus peace framework; The Great Barrier Reef coral-cover drop becomes a volatility record; ESPN's NFL Network deal becomes a sports-media ownership shift; Mexico's Pemex plan becomes a sovereign-support balance-sheet test
 - [2026-08-04](../outputs/2026/2026-08-04.md) - lookback 2025-08-04 - 4 entries
