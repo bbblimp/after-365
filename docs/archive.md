@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-07](../outputs/2026/2026-08-07.md) - lookback 2025-08-07 - 4 entries
+  - Topics: The August tariffs become an emergency-powers limit; The human-rights report cuts become a credibility test; GPT-5 becomes a platform baseline, not just a model launch; DecodeME becomes a biological research marker for ME/CFS
 - [2026-08-06](../outputs/2026/2026-08-06.md) - lookback 2025-08-06 - 4 entries
   - Topics: Texas's quorum-removal bid becomes a redistricting map-war case; The BARDA mRNA wind-down becomes a pandemic-preparedness test; The Aude wildfire becomes a Corbieres resilience plan; The Witkoff-Putin meeting becomes the Alaska no-deal prelude
 - [2026-08-05](../outputs/2026/2026-08-05.md) - lookback 2025-08-05 - 4 entries
