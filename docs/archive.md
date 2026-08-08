@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-09](../outputs/2026/2026-08-09.md) - lookback 2025-08-09 - 4 entries
+  - Topics: Data-center power demand becomes a ratepayer-allocation fight; Bishoftu airport financing becomes an African hub-capacity test; Northvolt's sale becomes a constrained battery-industry salvage case; Nagasaki's 80th anniversary becomes a disarmament-fragility marker
 - [2026-08-08](../outputs/2026/2026-08-08.md) - lookback 2025-08-08 - 4 entries
   - Topics: The Gaza City plan becomes a prolonged control-and-access crisis; The D.C. law-enforcement surge becomes a long federal-control precedent; The 401(k) alternative-assets order becomes a fiduciary safe-harbor rulemaking; The Gansu flash floods become a cascading-disaster reconstruction case
 - [2026-08-07](../outputs/2026/2026-08-07.md) - lookback 2025-08-07 - 4 entries
