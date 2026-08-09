@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-10](../outputs/2026/2026-08-10.md) - lookback 2025-08-10 - 4 entries
+  - Topics: The Nvidia-AMD fee becomes export-control monetization; The UCLA demand becomes a federal research-funding coercion test; The South Sudan-Uganda border probe becomes a recurring-displacement warning; The Sindirgi earthquake becomes a reconstruction and fault-science case
 - [2026-08-09](../outputs/2026/2026-08-09.md) - lookback 2025-08-09 - 4 entries
   - Topics: Data-center power demand becomes a ratepayer-allocation fight; Bishoftu airport financing becomes an African hub-capacity test; Northvolt's sale becomes a constrained battery-industry salvage case; Nagasaki's 80th anniversary becomes a disarmament-fragility marker
 - [2026-08-08](../outputs/2026/2026-08-08.md) - lookback 2025-08-08 - 4 entries
