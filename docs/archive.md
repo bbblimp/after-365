@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-11](../outputs/2026/2026-08-11.md) - lookback 2025-08-11 - 4 entries
+  - Topics: The Clairton Coke Works explosion becomes a process-safety case; New World screwworm preparedness becomes a domestic biosecurity buildout; The Iran-IAEA visit becomes a safeguards-access breakdown; CATL's lithium mine halt becomes a battery-minerals supply-discipline test
 - [2026-08-10](../outputs/2026/2026-08-10.md) - lookback 2025-08-10 - 4 entries
   - Topics: The Nvidia-AMD fee becomes export-control monetization; The UCLA demand becomes a federal research-funding coercion test; The South Sudan-Uganda border probe becomes a recurring-displacement warning; The Sindirgi earthquake becomes a reconstruction and fault-science case
 - [2026-08-09](../outputs/2026/2026-08-09.md) - lookback 2025-08-09 - 4 entries
