@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-14](../outputs/2026/2026-08-14.md) - lookback 2025-08-14 - 4 entries
+  - Topics: Mississippi's social-media age law becomes an emergency-docket signal; The Kishtwar cloudburst becomes a pilgrimage-route risk record; The Grain LNG sale becomes a UK energy-security ownership shift; The Syria coastal-violence report becomes a transition-accountability test
 - [2026-08-13](../outputs/2026/2026-08-13.md) - lookback 2025-08-13 - 4 entries
   - Topics: Juneau's flood barriers become recurring glacial-risk infrastructure; Gravelines turns a jellyfish shutdown into a cooling-resilience warning; The Smithsonian review becomes a public-history control fight; New York's Zelle case becomes a state enforcement backstop
 - [2026-08-12](../outputs/2026/2026-08-12.md) - lookback 2025-08-12 - 4 entries
