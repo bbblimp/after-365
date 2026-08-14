@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-15](../outputs/2026/2026-08-15.md) - lookback 2025-08-15 - 4 entries
+  - Topics: The Alaska summit becomes a no-deal diplomacy marker; The plastic treaty failure becomes a multilateral-design bottleneck; The Americas measles warning becomes an elimination-risk record; Bolsonaro's trial date becomes a democratic-accountability conviction
 - [2026-08-14](../outputs/2026/2026-08-14.md) - lookback 2025-08-14 - 4 entries
   - Topics: Mississippi's social-media age law becomes an emergency-docket signal; The Kishtwar cloudburst becomes a pilgrimage-route risk record; The Grain LNG sale becomes a UK energy-security ownership shift; The Syria coastal-violence report becomes a transition-accountability test
 - [2026-08-13](../outputs/2026/2026-08-13.md) - lookback 2025-08-13 - 4 entries
