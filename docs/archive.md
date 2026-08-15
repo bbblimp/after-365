@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-16](../outputs/2026/2026-08-16.md) - lookback 2025-08-16 - 4 entries
+  - Topics: The Air Canada strike becomes a Section 107 labor test; Serbia's protest clashes become an election-pressure marker; Southern Europe's fires become an EU record-season warning; Pakistan's flood toll becomes a national resilience ledger
 - [2026-08-15](../outputs/2026/2026-08-15.md) - lookback 2025-08-15 - 4 entries
   - Topics: The Alaska summit becomes a no-deal diplomacy marker; The plastic treaty failure becomes a multilateral-design bottleneck; The Americas measles warning becomes an elimination-risk record; Bolsonaro's trial date becomes a democratic-accountability conviction
 - [2026-08-14](../outputs/2026/2026-08-14.md) - lookback 2025-08-14 - 4 entries
