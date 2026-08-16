@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-17](../outputs/2026/2026-08-17.md) - lookback 2025-08-17 - 4 entries
+  - Topics: Bolivia's first round becomes a post-MAS transition vote; Kuwait's methanol arrests become a migrant-health warning; Hurricane Erin becomes an offshore coastal-risk rehearsal; Advent's u-blox offer becomes a GNSS take-private
 - [2026-08-16](../outputs/2026/2026-08-16.md) - lookback 2025-08-16 - 4 entries
   - Topics: The Air Canada strike becomes a Section 107 labor test; Serbia's protest clashes become an election-pressure marker; Southern Europe's fires become an EU record-season warning; Pakistan's flood toll becomes a national resilience ledger
 - [2026-08-15](../outputs/2026/2026-08-15.md) - lookback 2025-08-15 - 4 entries
