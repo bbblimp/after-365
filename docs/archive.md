@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-18](../outputs/2026/2026-08-18.md) - lookback 2025-08-18 - 4 entries
+  - Topics: ADF massacres become an eastern Congo civilian-protection ledger; The UK-Apple backdoor retreat becomes an encryption-governance precedent; Newsmax's Dominion settlement becomes an election-defamation endpoint; Norway's fund exclusions become a responsible-investment stress test
 - [2026-08-17](../outputs/2026/2026-08-17.md) - lookback 2025-08-17 - 4 entries
   - Topics: Bolivia's first round becomes a post-MAS transition vote; Kuwait's methanol arrests become a migrant-health warning; Hurricane Erin becomes an offshore coastal-risk rehearsal; Advent's u-blox offer becomes a GNSS take-private
 - [2026-08-16](../outputs/2026/2026-08-16.md) - lookback 2025-08-16 - 4 entries
