@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-19](../outputs/2026/2026-08-19.md) - lookback 2025-08-19 - 4 entries
+  - Topics: The aid-worker death record becomes a humanitarian-access warning; Jordan's national service revival becomes a youth-and-security implementation test; The Oak Flat stay becomes a critical-minerals and sacred-site litigation marker; Kiruna's church move becomes a mining-town relocation proof point
 - [2026-08-18](../outputs/2026/2026-08-18.md) - lookback 2025-08-18 - 4 entries
   - Topics: ADF massacres become an eastern Congo civilian-protection ledger; The UK-Apple backdoor retreat becomes an encryption-governance precedent; Newsmax's Dominion settlement becomes an election-defamation endpoint; Norway's fund exclusions become a responsible-investment stress test
 - [2026-08-17](../outputs/2026/2026-08-17.md) - lookback 2025-08-17 - 4 entries
