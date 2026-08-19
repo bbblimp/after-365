@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-20](../outputs/2026/2026-08-20.md) - lookback 2025-08-20 - 4 entries
+  - Topics: The Caribbean deployment becomes a lethal counter-narcotics campaign; The E1 approval becomes a settlement-tender countdown; The Herat bus crash becomes a forced-return risk record; Jimmy Lai's basic-rights defense becomes a sentencing marker
 - [2026-08-19](../outputs/2026/2026-08-19.md) - lookback 2025-08-19 - 4 entries
   - Topics: The aid-worker death record becomes a humanitarian-access warning; Jordan's national service revival becomes a youth-and-security implementation test; The Oak Flat stay becomes a critical-minerals and sacred-site litigation marker; Kiruna's church move becomes a mining-town relocation proof point
 - [2026-08-18](../outputs/2026/2026-08-18.md) - lookback 2025-08-18 - 4 entries
