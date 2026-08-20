@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-21](../outputs/2026/2026-08-21.md) - lookback 2025-08-21 - 4 entries
+  - Topics: The Antarctic review becomes a tipping-risk map; The Texas map becomes a national redistricting trigger; The transgender-care subpoenas become a medical-privacy firewall; The Nord Stream arrest becomes a prosecution chain
 - [2026-08-20](../outputs/2026/2026-08-20.md) - lookback 2025-08-20 - 4 entries
   - Topics: The Caribbean deployment becomes a lethal counter-narcotics campaign; The E1 approval becomes a settlement-tender countdown; The Herat bus crash becomes a forced-return risk record; Jimmy Lai's basic-rights defense becomes a sentencing marker
 - [2026-08-19](../outputs/2026/2026-08-19.md) - lookback 2025-08-19 - 4 entries
