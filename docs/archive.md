@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-22](../outputs/2026/2026-08-22.md) - lookback 2025-08-22 - 4 entries
+  - Topics: The Gaza famine classification becomes a humanitarian threshold; The Intel deal becomes an equity-for-subsidy precedent; The Revolution Wind order becomes a permitting-stability test; China's rare-earth rules become a supply-chain pressure point
 - [2026-08-21](../outputs/2026/2026-08-21.md) - lookback 2025-08-21 - 4 entries
   - Topics: The Antarctic review becomes a tipping-risk map; The Texas map becomes a national redistricting trigger; The transgender-care subpoenas become a medical-privacy firewall; The Nord Stream arrest becomes a prosecution chain
 - [2026-08-20](../outputs/2026/2026-08-20.md) - lookback 2025-08-20 - 4 entries
