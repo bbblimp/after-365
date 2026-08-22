@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-23](../outputs/2026/2026-08-23.md) - lookback 2025-08-23 - 4 entries
+  - Topics: The de minimis suspension becomes a postal-commerce shock; The Abrego Garcia Uganda notice becomes a third-country-removal test; Wickremesinghe's arrest becomes an anti-corruption stress test; The DMZ warning shots become a border-fortification marker
 - [2026-08-22](../outputs/2026/2026-08-22.md) - lookback 2025-08-22 - 4 entries
   - Topics: The Gaza famine classification becomes a humanitarian threshold; The Intel deal becomes an equity-for-subsidy precedent; The Revolution Wind order becomes a permitting-stability test; China's rare-earth rules become a supply-chain pressure point
 - [2026-08-21](../outputs/2026/2026-08-21.md) - lookback 2025-08-21 - 4 entries
