@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-24](../outputs/2026/2026-08-24.md) - lookback 2025-08-24 - 4 entries
+  - Topics: The screwworm case becomes a livestock-border warning; Syria's postponed provinces become a representation gap; Taiwan's failed nuclear referendum becomes a policy reversal test; The armed D.C. Guard mission becomes a standing deployment
 - [2026-08-23](../outputs/2026/2026-08-23.md) - lookback 2025-08-23 - 4 entries
   - Topics: The de minimis suspension becomes a postal-commerce shock; The Abrego Garcia Uganda notice becomes a third-country-removal test; Wickremesinghe's arrest becomes an anti-corruption stress test; The DMZ warning shots become a border-fortification marker
 - [2026-08-22](../outputs/2026/2026-08-22.md) - lookback 2025-08-22 - 4 entries
