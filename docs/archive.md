@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-25](../outputs/2026/2026-08-25.md) - lookback 2025-08-25 - 4 entries
+  - Topics: Trump's Cook removal becomes a Fed-independence test; Indonesia's allowance protest becomes a trust crisis; Bangladesh's Rohingya warning becomes a minimum-services appeal; The Levi appointment becomes a vaccine-governance signal
 - [2026-08-24](../outputs/2026/2026-08-24.md) - lookback 2025-08-24 - 4 entries
   - Topics: The screwworm case becomes a livestock-border warning; Syria's postponed provinces become a representation gap; Taiwan's failed nuclear referendum becomes a policy reversal test; The armed D.C. Guard mission becomes a standing deployment
 - [2026-08-23](../outputs/2026/2026-08-23.md) - lookback 2025-08-23 - 4 entries
