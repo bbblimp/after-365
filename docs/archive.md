@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-26](../outputs/2026/2026-08-26.md) - lookback 2025-08-26 - 4 entries
+  - Topics: Australia's Iran accusation becomes a state-sponsor framework; Botswana's health emergency becomes a medicine-supply warning; The Raine lawsuit becomes an AI-safety liability test; Starship Flight 10 becomes a recovery point, not an operational turn
 - [2026-08-25](../outputs/2026/2026-08-25.md) - lookback 2025-08-25 - 4 entries
   - Topics: Trump's Cook removal becomes a Fed-independence test; Indonesia's allowance protest becomes a trust crisis; Bangladesh's Rohingya warning becomes a minimum-services appeal; The Levi appointment becomes a vaccine-governance signal
 - [2026-08-24](../outputs/2026/2026-08-24.md) - lookback 2025-08-24 - 4 entries
