@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-27](../outputs/2026/2026-08-27.md) - lookback 2025-08-27 - 4 entries
+  - Topics: The Annunciation shooting becomes a school-safety and recovery marker; The India tariff shock becomes a sanctions-linked trade bargain; NextGen Acela becomes a Northeast Corridor capacity test; The real-estate painting clue becomes a restitution case
 - [2026-08-26](../outputs/2026/2026-08-26.md) - lookback 2025-08-26 - 4 entries
   - Topics: Australia's Iran accusation becomes a state-sponsor framework; Botswana's health emergency becomes a medicine-supply warning; The Raine lawsuit becomes an AI-safety liability test; Starship Flight 10 becomes a recovery point, not an operational turn
 - [2026-08-25](../outputs/2026/2026-08-25.md) - lookback 2025-08-25 - 4 entries
