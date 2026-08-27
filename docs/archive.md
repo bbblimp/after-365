@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-28](../outputs/2026/2026-08-28.md) - lookback 2025-08-28 - 5 entries
+  - Topics: The Haiti council appeal becomes a new gang-suppression framework; UNIFIL's final renewal becomes a scheduled peacekeeping exit; Carbono Oculto becomes a financial map of organized crime; The Republika Srpska election order becomes a rule-of-law test; The G20 inequality taskforce becomes a proposed standing panel
 - [2026-08-27](../outputs/2026/2026-08-27.md) - lookback 2025-08-27 - 4 entries
   - Topics: The Annunciation shooting becomes a school-safety and recovery marker; The India tariff shock becomes a sanctions-linked trade bargain; NextGen Acela becomes a Northeast Corridor capacity test; The real-estate painting clue becomes a restitution case
 - [2026-08-26](../outputs/2026/2026-08-26.md) - lookback 2025-08-26 - 4 entries
