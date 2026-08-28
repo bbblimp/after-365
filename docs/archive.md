@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-29](../outputs/2026/2026-08-29.md) - lookback 2025-08-29 - 4 entries
+  - Topics: The Paetongtarn ruling becomes a coalition-reset case; The El Fasher warning becomes an atrocity record; The Chiquita MOU becomes a guarded banana-sector restart; The Red Hill indictments become a partial accountability record
 - [2026-08-28](../outputs/2026/2026-08-28.md) - lookback 2025-08-28 - 5 entries
   - Topics: The Haiti council appeal becomes a new gang-suppression framework; UNIFIL's final renewal becomes a scheduled peacekeeping exit; Carbono Oculto becomes a financial map of organized crime; The Republika Srpska election order becomes a rule-of-law test; The G20 inequality taskforce becomes a proposed standing panel
 - [2026-08-27](../outputs/2026/2026-08-27.md) - lookback 2025-08-27 - 4 entries
