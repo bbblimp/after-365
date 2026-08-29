@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-30](../outputs/2026/2026-08-30.md) - lookback 2025-08-30 - 4 entries
+  - Topics: The West Africa boat capsize becomes a route-risk marker; The Houthi cabinet strike becomes a Red Sea escalation marker; The Nicaragua custody deaths become an enforced-disappearance record; The Department of War plan becomes an official secondary identity
 - [2026-08-29](../outputs/2026/2026-08-29.md) - lookback 2025-08-29 - 4 entries
   - Topics: The Paetongtarn ruling becomes a coalition-reset case; The El Fasher warning becomes an atrocity record; The Chiquita MOU becomes a guarded banana-sector restart; The Red Hill indictments become a partial accountability record
 - [2026-08-28](../outputs/2026/2026-08-28.md) - lookback 2025-08-28 - 5 entries
