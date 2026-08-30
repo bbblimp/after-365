@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-08-31](../outputs/2026/2026-08-31.md) - lookback 2025-08-31 - 4 entries
+  - Topics: The Punjab super-flood becomes a recovery-and-preparedness test; The Norway frigate choice becomes a North Atlantic integration deal; The Palmira cemetery project becomes a first restorative-sentence pathway; The tariff-talks answer becomes a Supreme Court limit on emergency trade power
 - [2026-08-30](../outputs/2026/2026-08-30.md) - lookback 2025-08-30 - 4 entries
   - Topics: The West Africa boat capsize becomes a route-risk marker; The Houthi cabinet strike becomes a Red Sea escalation marker; The Nicaragua custody deaths become an enforced-disappearance record; The Department of War plan becomes an official secondary identity
 - [2026-08-29](../outputs/2026/2026-08-29.md) - lookback 2025-08-29 - 4 entries
