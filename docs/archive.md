@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-01](../outputs/2026/2026-09-01.md) - lookback 2025-09-01 - 4 entries
+  - Topics: The Kunar earthquake becomes a recovery-needs ledger; Syrian returns become a reintegration test; Paz's ambiguity becomes a stabilization mandate; The Nestle dismissal becomes a governance-and-execution case
 - [2026-08-31](../outputs/2026/2026-08-31.md) - lookback 2025-08-31 - 4 entries
   - Topics: The Punjab super-flood becomes a recovery-and-preparedness test; The Norway frigate choice becomes a North Atlantic integration deal; The Palmira cemetery project becomes a first restorative-sentence pathway; The tariff-talks answer becomes a Supreme Court limit on emergency trade power
 - [2026-08-30](../outputs/2026/2026-08-30.md) - lookback 2025-08-30 - 4 entries
