@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-03](../outputs/2026/2026-09-03.md) - lookback 2025-09-03 - 4 entries
+  - Topics: The Gloria crash becomes a heritage-transit safety test; Florida's mandate pledge becomes a school-entry rule fight; The Nauru deal becomes a removal-power precedent; The boat strike becomes a lethal interdiction campaign
 - [2026-09-02](../outputs/2026/2026-09-02.md) - lookback 2025-09-02 - 4 entries
   - Topics: The Google ruling becomes a narrowed search-remedies precedent; WHO's mental-health baseline becomes a 2030 access target; Power of Siberia 2 becomes a leverage test, not a pipeline start; The UK gilt selloff becomes a fiscal-headroom warning
 - [2026-09-01](../outputs/2026/2026-09-01.md) - lookback 2025-09-01 - 4 entries
