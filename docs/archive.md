@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-04](../outputs/2026/2026-09-04.md) - lookback 2025-09-04 - 4 entries
+  - Topics: The Bulape Ebola outbreak becomes a containment benchmark with limits; Nepal's platform ban becomes a government-toppling trigger; The flood-control protest becomes an infrastructure-corruption case; Armani's death becomes a controlled sale plan
 - [2026-09-03](../outputs/2026/2026-09-03.md) - lookback 2025-09-03 - 4 entries
   - Topics: The Gloria crash becomes a heritage-transit safety test; Florida's mandate pledge becomes a school-entry rule fight; The Nauru deal becomes a removal-power precedent; The boat strike becomes a lethal interdiction campaign
 - [2026-09-02](../outputs/2026/2026-09-02.md) - lookback 2025-09-02 - 4 entries
