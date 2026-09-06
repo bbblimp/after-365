@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-07](../outputs/2026/2026-09-07.md) - lookback 2025-09-07 - 4 entries
+  - Topics: The Kyiv government-building strike becomes an air-defense escalation marker; Milei's Buenos Aires defeat becomes a volatility warning, not a mandate collapse; The OPEC+ adjustment becomes a surplus-discipline test; The CHP office blockade becomes a precursor to deeper party intervention
 - [2026-09-06](../outputs/2026/2026-09-06.md) - lookback 2025-09-06 - 4 entries
   - Topics: The Palestine Action arrests become a terrorism-law stress test; The Anthropic deal becomes an AI copyright settlement benchmark; Anutin's cabinet picks become a short-mandate governing bridge; The Air Canada rejection becomes a binding wage award
 - [2026-09-05](../outputs/2026/2026-09-05.md) - lookback 2025-09-05 - 4 entries
