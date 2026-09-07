@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-08](../outputs/2026/2026-09-08.md) - lookback 2025-09-08 - 4 entries
+  - Topics: Bayrou's fall becomes a fiscal-stability test for Macron's final stretch; The Slaughter stay becomes the path to overruling an independent-agency shield; The Honiara forum becomes a sovereignty test for Pacific regionalism; The Ramot attack becomes an access-restriction marker in East Jerusalem
 - [2026-09-07](../outputs/2026/2026-09-07.md) - lookback 2025-09-07 - 4 entries
   - Topics: The Kyiv government-building strike becomes an air-defense escalation marker; Milei's Buenos Aires defeat becomes a volatility warning, not a mandate collapse; The OPEC+ adjustment becomes a surplus-discipline test; The CHP office blockade becomes a precursor to deeper party intervention
 - [2026-09-06](../outputs/2026/2026-09-06.md) - lookback 2025-09-06 - 4 entries
