@@ -3,6 +3,10 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-11](../outputs/2026/2026-09-11.md) - lookback 2025-09-11 - 4 entries
+  - Topics: The Afghan women UN staff ban becomes a year-long access crisis; The Planned Parenthood Medicaid stay becomes a one-year access shock; The NASA Chinese-national restrictions become a research-security boundary; The Iztapalapa tanker blast becomes a hazardous-transport enforcement test
+- [2026-09-10](../outputs/2026/2026-09-10.md) - lookback 2025-09-10 - 4 entries
+  - Topics: The Poland drone incursion becomes an Article 4 and eastern-flank posture test; The Charlie Kirk shooting becomes a political-violence prosecution; The Steve Biko inquest reopening becomes a late-accountability stress test; The Hong Kong partnership veto becomes a court-compliance and equality problem
 - [2026-09-09](../outputs/2026/2026-09-09.md) - lookback 2025-09-09 - 4 entries
   - Topics: The Doha strike becomes a security-guarantee test for Qatar's mediator role; The GERD opening turns the Nile dispute into an operating-rules problem; The first Bolsonaro conviction votes become a definitive coup judgment; The Red Sea cable cuts become a practical resilience benchmark
 - [2026-09-08](../outputs/2026/2026-09-08.md) - lookback 2025-09-08 - 4 entries
