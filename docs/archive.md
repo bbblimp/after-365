@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-12](../outputs/2026/2026-09-12.md) - lookback 2025-09-12 - 4 entries
+  - Topics: The Missouri map vote becomes a referendum-and-court fight; The Memphis Guard announcement becomes a sustained policing deployment; The air-taxi pilot becomes a national test bed; Diella becomes a test of AI symbolism in public procurement
 - [2026-09-11](../outputs/2026/2026-09-11.md) - lookback 2025-09-11 - 4 entries
   - Topics: The Afghan women UN staff ban becomes a year-long access crisis; The Planned Parenthood Medicaid stay becomes a one-year access shock; The NASA Chinese-national restrictions become a research-security boundary; The Iztapalapa tanker blast becomes a hazardous-transport enforcement test
 - [2026-09-10](../outputs/2026/2026-09-10.md) - lookback 2025-09-10 - 4 entries
