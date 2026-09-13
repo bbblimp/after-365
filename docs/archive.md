@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-14](../outputs/2026/2026-09-14.md) - lookback 2025-09-14 - 4 entries
+  - Topics: Nepal's interim government turns protest rupture into an election timetable; The U.S.-U.K. nuclear package becomes a supply-chain and licensing test; The Venezuelan tuna-boat boarding becomes a Caribbean rules-of-engagement marker; The London far-right rally becomes a test of protest policing and intimidation boundaries
 - [2026-09-13](../outputs/2026/2026-09-13.md) - lookback 2025-09-13 - 5 entries
   - Topics: The Congo boat disasters become a river-safety enforcement test; The Rakhine school strike becomes an education-protection case; The Labodrie massacre becomes a warning on Haiti's gang spread; Serbia's parallel rallies become a snap-election pressure point; The Henderson pledge becomes an AUKUS infrastructure milestone
 - [2026-09-12](../outputs/2026/2026-09-12.md) - lookback 2025-09-12 - 4 entries
