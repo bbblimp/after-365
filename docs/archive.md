@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-15](../outputs/2026/2026-09-15.md) - lookback 2025-09-15 - 4 entries
+  - Topics: The WTO fisheries-subsidies pact becomes an implementation test; The CHP court delay becomes an opposition-leadership rupture; The Philippine flood-control probe becomes a high-level corruption case; Trump's New York Times lawsuit becomes a press-litigation pressure point
 - [2026-09-14](../outputs/2026/2026-09-14.md) - lookback 2025-09-14 - 4 entries
   - Topics: Nepal's interim government turns protest rupture into an election timetable; The U.S.-U.K. nuclear package becomes a supply-chain and licensing test; The Venezuelan tuna-boat boarding becomes a Caribbean rules-of-engagement marker; The London far-right rally becomes a test of protest policing and intimidation boundaries
 - [2026-09-13](../outputs/2026/2026-09-13.md) - lookback 2025-09-13 - 5 entries
