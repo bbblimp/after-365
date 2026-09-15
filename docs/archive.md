@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-16](../outputs/2026/2026-09-16.md) - lookback 2025-09-16 - 4 entries
+  - Topics: The TikTok framework becomes a data-sovereignty operating test; Chad's term-limit vote becomes an indefinite-rule amendment; The Greenland welfare deal becomes an Arctic-sovereignty response; The Tesla door-handle probe becomes an egress-safety rulemaking test
 - [2026-09-15](../outputs/2026/2026-09-15.md) - lookback 2025-09-15 - 4 entries
   - Topics: The WTO fisheries-subsidies pact becomes an implementation test; The CHP court delay becomes an opposition-leadership rupture; The Philippine flood-control probe becomes a high-level corruption case; Trump's New York Times lawsuit becomes a press-litigation pressure point
 - [2026-09-14](../outputs/2026/2026-09-14.md) - lookback 2025-09-14 - 4 entries
