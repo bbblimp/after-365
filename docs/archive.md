@@ -3,6 +3,10 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-18](../outputs/2026/2026-09-18.md) - lookback 2025-09-18 - 4 entries
+  - Topics: The ACIP meeting becomes a vaccine-guidance implementation test; New Mexico's universal child-care promise becomes a capacity test; The Ticketmaster case becomes part of a wider gatekeeper reckoning; The Canada-Mexico partnership becomes a diversification marker
+- [2026-09-17](../outputs/2026/2026-09-17.md) - lookback 2025-09-17 - 4 entries
+  - Topics: The Saudi-Pakistan pact becomes a regional-deterrence test; The Fed's rate cut becomes the start of a volatile policy reversal; Indonesia's military-law ruling becomes a civilian-rule warning; The France returns injunction becomes a safeguarding test
 - [2026-09-16](../outputs/2026/2026-09-16.md) - lookback 2025-09-16 - 4 entries
   - Topics: The TikTok framework becomes a data-sovereignty operating test; Chad's term-limit vote becomes an indefinite-rule amendment; The Greenland welfare deal becomes an Arctic-sovereignty response; The Tesla door-handle probe becomes an egress-safety rulemaking test
 - [2026-09-15](../outputs/2026/2026-09-15.md) - lookback 2025-09-15 - 4 entries
