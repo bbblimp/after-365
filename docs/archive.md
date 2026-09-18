@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-19](../outputs/2026/2026-09-19.md) - lookback 2025-09-19 - 4 entries
+  - Topics: The Estonia incursion becomes an eastern-flank air-defense test; The Iran snapback vote becomes a sanctions-monitoring gap; The stopgap-vote failure becomes a 42-day shutdown marker; The Texas A&M resignation becomes an academic-freedom test case
 - [2026-09-18](../outputs/2026/2026-09-18.md) - lookback 2025-09-18 - 4 entries
   - Topics: The ACIP meeting becomes a vaccine-guidance implementation test; New Mexico's universal child-care promise becomes a capacity test; The Ticketmaster case becomes part of a wider gatekeeper reckoning; The Canada-Mexico partnership becomes a diversification marker
 - [2026-09-17](../outputs/2026/2026-09-17.md) - lookback 2025-09-17 - 4 entries
