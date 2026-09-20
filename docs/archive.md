@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-21](../outputs/2026/2026-09-21.md) - lookback 2025-09-21 - 4 entries
+  - Topics: The Palestine-recognition wave becomes a sanctions and two-state-policy marker; The Pentagon press rules become a wider access-and-retaliation test; Brazil's anti-shield protests become a legislative accountability marker; Ragasa becomes a forecasting and coastal-resilience case
 - [2026-09-20](../outputs/2026/2026-09-20.md) - lookback 2025-09-20 - 4 entries
   - Topics: The Collins airport cyberattack becomes an aviation supply-chain resilience test; The H-1B fee confusion becomes a skilled-labor policy fight; The Hague anti-immigration riots become a political-violence prosecution record; The Vatican appeal becomes a due-process test for financial reform
 - [2026-09-19](../outputs/2026/2026-09-19.md) - lookback 2025-09-19 - 4 entries
