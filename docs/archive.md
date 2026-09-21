@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-22](../outputs/2026/2026-09-22.md) - lookback 2025-09-22 - 4 entries
+  - Topics: Google's ad-tech remedy trial becomes a behavioral antitrust order; Nepal's Gen Z protest inquiry becomes a contested accountability test; Syria's sanctions appeal becomes a U.S. normalization marker; North Korea's talks offer becomes a nuclear-state bargaining line
 - [2026-09-21](../outputs/2026/2026-09-21.md) - lookback 2025-09-21 - 4 entries
   - Topics: The Palestine-recognition wave becomes a sanctions and two-state-policy marker; The Pentagon press rules become a wider access-and-retaliation test; Brazil's anti-shield protests become a legislative accountability marker; Ragasa becomes a forecasting and coastal-resilience case
 - [2026-09-20](../outputs/2026/2026-09-20.md) - lookback 2025-09-20 - 4 entries
