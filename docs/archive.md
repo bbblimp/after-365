@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-23](../outputs/2026/2026-09-23.md) - lookback 2025-09-23 - 4 entries
+  - Topics: Brazil's forest-finance pledge becomes an operating climate-finance test; Bachelet's UN bid becomes a Security Council viability lesson; The Tylenol-autism warning becomes a science-governance and litigation fight; The women's-service advisory panel termination becomes a readiness-governance marker
 - [2026-09-22](../outputs/2026/2026-09-22.md) - lookback 2025-09-22 - 4 entries
   - Topics: Google's ad-tech remedy trial becomes a behavioral antitrust order; Nepal's Gen Z protest inquiry becomes a contested accountability test; Syria's sanctions appeal becomes a U.S. normalization marker; North Korea's talks offer becomes a nuclear-state bargaining line
 - [2026-09-21](../outputs/2026/2026-09-21.md) - lookback 2025-09-21 - 4 entries
