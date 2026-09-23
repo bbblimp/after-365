@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-24](../outputs/2026/2026-09-24.md) - lookback 2025-09-24 - 4 entries
+  - Topics: Mutharika's Malawi election win becomes an economic-governance mandate; India's Sahyog ruling becomes a Supreme Court test of takedown power; The U.S. Argentina backstop becomes a short-lived stabilization precedent; Alibaba's AI-cloud push becomes a global infrastructure race marker
 - [2026-09-23](../outputs/2026/2026-09-23.md) - lookback 2025-09-23 - 4 entries
   - Topics: Brazil's forest-finance pledge becomes an operating climate-finance test; Bachelet's UN bid becomes a Security Council viability lesson; The Tylenol-autism warning becomes a science-governance and litigation fight; The women's-service advisory panel termination becomes a readiness-governance marker
 - [2026-09-22](../outputs/2026/2026-09-22.md) - lookback 2025-09-22 - 4 entries
