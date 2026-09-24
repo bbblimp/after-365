@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-25](../outputs/2026/2026-09-25.md) - lookback 2025-09-25 - 4 entries
+  - Topics: Sarkozy's Libya sentence becomes a French political-accountability test; The Comey indictment becomes an appointment-power rebuke; The sectoral tariff threat becomes a slower national-security trade tool; The pandemic agreement's PABS annex becomes the implementation bottleneck
 - [2026-09-24](../outputs/2026/2026-09-24.md) - lookback 2025-09-24 - 4 entries
   - Topics: Mutharika's Malawi election win becomes an economic-governance mandate; India's Sahyog ruling becomes a Supreme Court test of takedown power; The U.S. Argentina backstop becomes a short-lived stabilization precedent; Alibaba's AI-cloud push becomes a global infrastructure race marker
 - [2026-09-23](../outputs/2026/2026-09-23.md) - lookback 2025-09-23 - 4 entries
