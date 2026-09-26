@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-27](../outputs/2026/2026-09-27.md) - lookback 2025-09-27 - 4 entries
+  - Topics: The Iran snapback becomes a post-JCPOA sanctions test; The Karur rally crush becomes a political crowd-safety accountability case; The NIRS fire becomes a digital-government resilience warning; The Denmark drone sightings become a counter-drone readiness marker
 - [2026-09-26](../outputs/2026/2026-09-26.md) - lookback 2025-09-26 - 4 entries
   - Topics: The foreign-aid freeze order becomes an impoundment-power marker; Moldova's priest-network revelations become an election-resilience case; Bualoi becomes a multi-country disaster-preparedness case; The Zamfara mine collapse becomes an informal-mining governance warning
 - [2026-09-25](../outputs/2026/2026-09-25.md) - lookback 2025-09-25 - 4 entries
