@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-28](../outputs/2026/2026-09-28.md) - lookback 2025-09-28 - 3 entries
+  - Topics: Madagascar's service protests become a warning about military-led transition; The Swiss housing-tax vote becomes a long-lead federalism test; Eric Adams's exit becomes a New York political-transition marker
 - [2026-09-27](../outputs/2026/2026-09-27.md) - lookback 2025-09-27 - 4 entries
   - Topics: The Iran snapback becomes a post-JCPOA sanctions test; The Karur rally crush becomes a political crowd-safety accountability case; The NIRS fire becomes a digital-government resilience warning; The Denmark drone sightings become a counter-drone readiness marker
 - [2026-09-26](../outputs/2026/2026-09-26.md) - lookback 2025-09-26 - 4 entries
