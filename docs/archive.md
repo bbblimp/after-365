@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-09-29](../outputs/2026/2026-09-29.md) - lookback 2025-09-29 - 3 entries
+  - Topics: The failed funding talks become the threshold to a record shutdown; Afghanistan's blackout becomes an infrastructure-control warning; The EA agreement becomes a sovereign-led ownership shift
 - [2026-09-28](../outputs/2026/2026-09-28.md) - lookback 2025-09-28 - 3 entries
   - Topics: Madagascar's service protests become a warning about military-led transition; The Swiss housing-tax vote becomes a long-lead federalism test; Eric Adams's exit becomes a New York political-transition marker
 - [2026-09-27](../outputs/2026/2026-09-27.md) - lookback 2025-09-27 - 4 entries
