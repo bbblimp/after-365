@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-10-01](../outputs/2026/2026-10-01.md) - lookback 2025-10-01 - 3 entries
+  - Topics: The AGOA lapse becomes a short renewal and a long-certainty warning; The PPE Medpro judgment becomes a recovery-enforcement test; The Berlin weapons arrests become a cross-border terrorism prosecution
 - [2026-09-30](../outputs/2026/2026-09-30.md) - lookback 2025-09-30 - 4 entries
   - Topics: The Cebu earthquake becomes a fault-mapping and long-recovery case; Haiti's new gang force becomes an implementation-gap test; Kabila's death sentence becomes an opposition and dialogue barrier; Sora 2 becomes a short-lived generative-video product experiment
 - [2026-09-29](../outputs/2026/2026-09-29.md) - lookback 2025-09-29 - 3 entries
