@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-10-02](../outputs/2026/2026-10-02.md) - lookback 2025-10-02 - 4 entries
+  - Topics: The near-coast aircraft warning becomes a precursor to U.S. intervention in Venezuela; The clean-energy cancellations become an equal-protection and evidence test; FICO's direct channel becomes one front in mortgage-score competition; Vanuatu's sovereignty objection becomes leverage for a revised Australian treaty
 - [2026-10-01](../outputs/2026/2026-10-01.md) - lookback 2025-10-01 - 3 entries
   - Topics: The AGOA lapse becomes a short renewal and a long-certainty warning; The PPE Medpro judgment becomes a recovery-enforcement test; The Berlin weapons arrests become a cross-border terrorism prosecution
 - [2026-09-30](../outputs/2026/2026-09-30.md) - lookback 2025-09-30 - 4 entries
