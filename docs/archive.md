@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-10-03](../outputs/2026/2026-10-03.md) - lookback 2025-10-03 - 4 entries
+  - Topics: Hamas's conditional acceptance becomes a ceasefire with a stalled transition; The Czech election becomes a coalition-government and policy test; The converted kidney remains a proof of concept, not yet a universal organ; The Philippine science-school expansion moves from statute to implementation
 - [2026-10-02](../outputs/2026/2026-10-02.md) - lookback 2025-10-02 - 4 entries
   - Topics: The near-coast aircraft warning becomes a precursor to U.S. intervention in Venezuela; The clean-energy cancellations become an equal-protection and evidence test; FICO's direct channel becomes one front in mortgage-score competition; Vanuatu's sovereignty objection becomes leverage for a revised Australian treaty
 - [2026-10-01](../outputs/2026/2026-10-01.md) - lookback 2025-10-01 - 3 entries
