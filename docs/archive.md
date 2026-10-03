@@ -3,6 +3,8 @@
 Completed After 365 reports, newest first.
 
 <!-- after365-archive:start -->
+- [2026-10-04](../outputs/2026/2026-10-04.md) - lookback 2025-10-04 - 3 entries
+  - Topics: Takaichi's LDP victory becomes a coalition realignment and electoral mandate; Georgia's boycotted local vote becomes a prosecution and democratic-backsliding marker; Morocco's GenZ 212 protests leave budget changes, prosecutions, and no durable movement
 - [2026-10-03](../outputs/2026/2026-10-03.md) - lookback 2025-10-03 - 4 entries
   - Topics: Hamas's conditional acceptance becomes a ceasefire with a stalled transition; The Czech election becomes a coalition-government and policy test; The converted kidney remains a proof of concept, not yet a universal organ; The Philippine science-school expansion moves from statute to implementation
 - [2026-10-02](../outputs/2026/2026-10-02.md) - lookback 2025-10-02 - 4 entries
